@@ -25,7 +25,9 @@ conda env create -f environment.yml
 conda activate music
 ```
 
-# Partie 1, récupération des urls du podcast **The Ben Shapiro Show**
+***
+
+### Partie 1, récupération des urls du podcast **The Ben Shapiro Show**
 
 Téléchargement des urls de la playlist *The Ben Shapiro Show* dont l'id est *PLX_rhFRRlAG58_4z9KWPUYrnTM6QZDJrT*. L'output est le fichier `urls`. D'après [youtube-dl](https://github.com/ytdl-org/youtube-dl) :
 
@@ -34,7 +36,9 @@ conda activate music
 (music) bash grabb_urls.sh PLX_rhFRRlAG58_4z9KWPUYrnTM6QZDJrT urls
 ```
 
-# Partie 2, récupération des commentaires
+***
+
+### Partie 2, récupération des commentaires
 
 Téléchargement (dans le dossier `/comments`) des commentaires dans le dossier des vidéos dont les urls se trouvent dans le fichier `urls`. D'après [youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader) :
 
@@ -42,8 +46,9 @@ Téléchargement (dans le dossier `/comments`) des commentaires dans le dossier 
 conda activate music
 (music) bash grabb_comments.sh urls comments
 ```
+***
 
-# Partie 3, récupération des verbatims
+### Partie 3, récupération des verbatims
 
 Téléchargement (dans le dossier `/verbatims`) des verbatims des vidéos dont les urls se trouvent dans le fichier `urls`. D'après [download-youtube-subtitle](https://github.com/xsthunder/download-youtube-subtitle) :
 
