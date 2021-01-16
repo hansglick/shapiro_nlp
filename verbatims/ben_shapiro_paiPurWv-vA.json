@@ -1,0 +1,6269 @@
+{
+    "original": [
+        {
+            "start": "0",
+            "dur": "3.959",
+            "text": "is the media deliberately scaring people"
+        },
+        {
+            "start": "1.8",
+            "dur": "3.959",
+            "text": "about North Korea our Republicans really"
+        },
+        {
+            "start": "3.959",
+            "dur": "3.96",
+            "text": "willing to cancel the 20/20 election and"
+        },
+        {
+            "start": "5.759",
+            "dur": "4.8",
+            "text": "we're about to have on the famous"
+        },
+        {
+            "start": "7.919",
+            "dur": "3.151",
+            "text": "infamous most important guy in America"
+        },
+        {
+            "start": "10.559",
+            "dur": "2.401",
+            "text": "today"
+        },
+        {
+            "start": "11.07",
+            "dur": "3.479",
+            "text": "James d'amour the Google memo guy in"
+        },
+        {
+            "start": "12.96",
+            "dur": "3.09",
+            "text": "just a second i'm ben shapiro this is"
+        },
+        {
+            "start": "14.549",
+            "dur": "6.3",
+            "text": "the ben shapiro show"
+        },
+        {
+            "start": "16.05",
+            "dur": "7.059",
+            "text": "[Music]"
+        },
+        {
+            "start": "20.849",
+            "dur": "3.67",
+            "text": "okay we're all waiting with bated breath"
+        },
+        {
+            "start": "23.109",
+            "dur": "3.09",
+            "text": "to talk to James Moore he's sitting"
+        },
+        {
+            "start": "24.519",
+            "dur": "3.63",
+            "text": "right here on the Skype so let me"
+        },
+        {
+            "start": "26.199",
+            "dur": "3",
+            "text": "talking to him momentarily we just want"
+        },
+        {
+            "start": "28.149",
+            "dur": "2.671",
+            "text": "to jump right into it because I know"
+        },
+        {
+            "start": "29.199",
+            "dur": "2.97",
+            "text": "that our audience has been waiting with"
+        },
+        {
+            "start": "30.82",
+            "dur": "2.37",
+            "text": "bated breath ever since I announced this"
+        },
+        {
+            "start": "32.169",
+            "dur": "3.301",
+            "text": "morning on Twitter that we would be"
+        },
+        {
+            "start": "33.19",
+            "dur": "4.23",
+            "text": "having on the author of the Google memo"
+        },
+        {
+            "start": "35.47",
+            "dur": "3.39",
+            "text": "the infamous Google memo the most"
+        },
+        {
+            "start": "37.42",
+            "dur": "4.529",
+            "text": "important document since the Magna Carta"
+        },
+        {
+            "start": "38.86",
+            "dur": "4.71",
+            "text": "James d'amour is joining us right now he"
+        },
+        {
+            "start": "41.949",
+            "dur": "3.331",
+            "text": "of course is a senior engineer at Google"
+        },
+        {
+            "start": "43.57",
+            "dur": "3.78",
+            "text": "until he made the mistake of pending and"
+        },
+        {
+            "start": "45.28",
+            "dur": "4.29",
+            "text": "eminently correct scientific treatise on"
+        },
+        {
+            "start": "47.35",
+            "dur": "4.32",
+            "text": "the differences between men and women"
+        },
+        {
+            "start": "49.57",
+            "dur": "4.26",
+            "text": "and why that may contribute in part to"
+        },
+        {
+            "start": "51.67",
+            "dur": "4.319",
+            "text": "discrepancies in terms of the levels of"
+        },
+        {
+            "start": "53.83",
+            "dur": "3.719",
+            "text": "employment and wages at Google between"
+        },
+        {
+            "start": "55.989",
+            "dur": "3.39",
+            "text": "women and men and then of course Google"
+        },
+        {
+            "start": "57.549",
+            "dur": "3.121",
+            "text": "found out about his wrong thing and he"
+        },
+        {
+            "start": "59.379",
+            "dur": "4.74",
+            "text": "was fired James thanks so much for"
+        },
+        {
+            "start": "60.67",
+            "dur": "5.55",
+            "text": "joining the program yeah going for okay"
+        },
+        {
+            "start": "64.119",
+            "dur": "4.68",
+            "text": "so let me just jump right in here and I"
+        },
+        {
+            "start": "66.22",
+            "dur": "4.109",
+            "text": "want to ask you began to start you've"
+        },
+        {
+            "start": "68.799",
+            "dur": "3.57",
+            "text": "alleged that there's actually some"
+        },
+        {
+            "start": "70.329",
+            "dur": "5.371",
+            "text": "illegal activity going on at Google"
+        },
+        {
+            "start": "72.369",
+            "dur": "4.441",
+            "text": "because that's why presumably that you"
+        },
+        {
+            "start": "75.7",
+            "dur": "2.07",
+            "text": "should be in trouble for firing you"
+        },
+        {
+            "start": "76.81",
+            "dur": "2.309",
+            "text": "because it's an out well state"
+        },
+        {
+            "start": "77.77",
+            "dur": "2.69",
+            "text": "California is now well state anybody can"
+        },
+        {
+            "start": "79.119",
+            "dur": "2.851",
+            "text": "be fired for anybody any reason but"
+        },
+        {
+            "start": "80.46",
+            "dur": "3.009",
+            "text": "according to the National Labor"
+        },
+        {
+            "start": "81.97",
+            "dur": "3.12",
+            "text": "Relations Board you cannot be fired if"
+        },
+        {
+            "start": "83.469",
+            "dur": "3.54",
+            "text": "you're whistleblowing so what is the"
+        },
+        {
+            "start": "85.09",
+            "dur": "3.33",
+            "text": "purported illegal activity that's going"
+        },
+        {
+            "start": "87.009",
+            "dur": "5.941",
+            "text": "on at Google that you are attempting to"
+        },
+        {
+            "start": "88.42",
+            "dur": "7.009",
+            "text": "expose so part of it is that they treat"
+        },
+        {
+            "start": "92.95",
+            "dur": "4.89",
+            "text": "people differently in the hiring process"
+        },
+        {
+            "start": "95.429",
+            "dur": "6.73",
+            "text": "depending on what their race or gender"
+        },
+        {
+            "start": "97.84",
+            "dur": "6.319",
+            "text": "is and some teams will preferentially"
+        },
+        {
+            "start": "102.159",
+            "dur": "5.221",
+            "text": "choose certain groups"
+        },
+        {
+            "start": "104.159",
+            "dur": "5.291",
+            "text": "okay so you've also said that they have"
+        },
+        {
+            "start": "107.38",
+            "dur": "3.989",
+            "text": "these sort of super-secret diversity"
+        },
+        {
+            "start": "109.45",
+            "dur": "3.509",
+            "text": "sessions in which they discuss all of"
+        },
+        {
+            "start": "111.369",
+            "dur": "3.35",
+            "text": "this can you take us inside one of those"
+        },
+        {
+            "start": "112.959",
+            "dur": "4.8",
+            "text": "what does that look like from the inside"
+        },
+        {
+            "start": "114.719",
+            "dur": "5.08",
+            "text": "it's just a group of always people"
+        },
+        {
+            "start": "117.759",
+            "dur": "6.511",
+            "text": "talking about the benefits of diversity"
+        },
+        {
+            "start": "119.799",
+            "dur": "8.191",
+            "text": "and how much they love diversity and all"
+        },
+        {
+            "start": "124.27",
+            "dur": "7.38",
+            "text": "the sexism and racism that happens and"
+        },
+        {
+            "start": "127.99",
+            "dur": "4.89",
+            "text": "how we have to try to fix that okay we"
+        },
+        {
+            "start": "131.65",
+            "dur": "2.79",
+            "text": "know that Google has spent some two"
+        },
+        {
+            "start": "132.88",
+            "dur": "2.85",
+            "text": "hundred and sixty five million dollars"
+        },
+        {
+            "start": "134.44",
+            "dur": "3.3",
+            "text": "apparently trying to increase their"
+        },
+        {
+            "start": "135.73",
+            "dur": "3.869",
+            "text": "diversity ratios and this of course has"
+        },
+        {
+            "start": "137.74",
+            "dur": "4.079",
+            "text": "been a wild fail well I've read your"
+        },
+        {
+            "start": "139.599",
+            "dur": "3.421",
+            "text": "memo at least three times now because I"
+        },
+        {
+            "start": "141.819",
+            "dur": "2.671",
+            "text": "just want to make sure I'm not crazy"
+        },
+        {
+            "start": "143.02",
+            "dur": "3.66",
+            "text": "because if you watch the media coverage"
+        },
+        {
+            "start": "144.49",
+            "dur": "3.84",
+            "text": "of your memo it is not in any way"
+        },
+        {
+            "start": "146.68",
+            "dur": "2.85",
+            "text": "related to the actual content of the"
+        },
+        {
+            "start": "148.33",
+            "dur": "2.28",
+            "text": "memo the media's made a bunch of"
+        },
+        {
+            "start": "149.53",
+            "dur": "2.34",
+            "text": "different claims about the memo they've"
+        },
+        {
+            "start": "150.61",
+            "dur": "3.18",
+            "text": "said that you were saying"
+        },
+        {
+            "start": "151.87",
+            "dur": "4.05",
+            "text": "in the memo that women are biologically"
+        },
+        {
+            "start": "153.79",
+            "dur": "3.93",
+            "text": "unfit for tech that was a Chiron on CNN"
+        },
+        {
+            "start": "155.92",
+            "dur": "3.629",
+            "text": "were you making the claim James d'amore"
+        },
+        {
+            "start": "157.72",
+            "dur": "4.019",
+            "text": "Google memo guy were you making the"
+        },
+        {
+            "start": "159.549",
+            "dur": "5.311",
+            "text": "claim that women are biologically unfit"
+        },
+        {
+            "start": "161.739",
+            "dur": "6.481",
+            "text": "for the tech industry no I was just"
+        },
+        {
+            "start": "164.86",
+            "dur": "5.489",
+            "text": "trying to explain why we see a disparity"
+        },
+        {
+            "start": "168.22",
+            "dur": "5.37",
+            "text": "in the population of people that are"
+        },
+        {
+            "start": "170.349",
+            "dur": "5.191",
+            "text": "interested in working in tech and begin"
+        },
+        {
+            "start": "173.59",
+            "dur": "3.45",
+            "text": "and you can see that right there I mean"
+        },
+        {
+            "start": "175.54",
+            "dur": "2.94",
+            "text": "I'm quoting your memo back to you here"
+        },
+        {
+            "start": "177.04",
+            "dur": "2.97",
+            "text": "but it says I'm not saying that all men"
+        },
+        {
+            "start": "178.48",
+            "dur": "3.149",
+            "text": "differ from all women in the following"
+        },
+        {
+            "start": "180.01",
+            "dur": "3.449",
+            "text": "ways that these differences are just I'm"
+        },
+        {
+            "start": "181.629",
+            "dur": "3.271",
+            "text": "simply stating that the distribution of"
+        },
+        {
+            "start": "183.459",
+            "dur": "3.241",
+            "text": "preferences and abilities of men and"
+        },
+        {
+            "start": "184.9",
+            "dur": "3.809",
+            "text": "women women differ in part due to"
+        },
+        {
+            "start": "186.7",
+            "dur": "3.84",
+            "text": "biological causes this has been"
+        },
+        {
+            "start": "188.709",
+            "dur": "4.081",
+            "text": "translated by the left into you are"
+        },
+        {
+            "start": "190.54",
+            "dur": "4.38",
+            "text": "saying that women ought not work in tech"
+        },
+        {
+            "start": "192.79",
+            "dur": "3.18",
+            "text": "or they're unqualified for tech you"
+        },
+        {
+            "start": "194.92",
+            "dur": "2.909",
+            "text": "weren't even saying you have an entire"
+        },
+        {
+            "start": "195.97",
+            "dur": "3.54",
+            "text": "section of your memo promoting the idea"
+        },
+        {
+            "start": "197.829",
+            "dur": "3.3",
+            "text": "that there should be more women in tech"
+        },
+        {
+            "start": "199.51",
+            "dur": "2.699",
+            "text": "and you offered a bunch of ways that you"
+        },
+        {
+            "start": "201.129",
+            "dur": "3.091",
+            "text": "think that the tech community could be"
+        },
+        {
+            "start": "202.209",
+            "dur": "4.14",
+            "text": "made more welcoming to women so are you"
+        },
+        {
+            "start": "204.22",
+            "dur": "7.439",
+            "text": "in favor of more women right yeah I mean"
+        },
+        {
+            "start": "206.349",
+            "dur": "6.78",
+            "text": "I like women right so and if we're in"
+        },
+        {
+            "start": "211.659",
+            "dur": "3.541",
+            "text": "general just trying to get more people"
+        },
+        {
+            "start": "213.129",
+            "dur": "4.531",
+            "text": "interested in tech then that would be"
+        },
+        {
+            "start": "215.2",
+            "dur": "3.93",
+            "text": "one way to do it so I want to I want to"
+        },
+        {
+            "start": "217.66",
+            "dur": "4.109",
+            "text": "talk to you a little bit about something"
+        },
+        {
+            "start": "219.13",
+            "dur": "4.859",
+            "text": "that the YouTube CEO woman in Susan"
+        },
+        {
+            "start": "221.769",
+            "dur": "4.291",
+            "text": "watch kicky that she wrote this morning"
+        },
+        {
+            "start": "223.989",
+            "dur": "3.541",
+            "text": "over at Forbes she wrote a piece at"
+        },
+        {
+            "start": "226.06",
+            "dur": "3.42",
+            "text": "Forbes at the horrors of your memo and"
+        },
+        {
+            "start": "227.53",
+            "dur": "3.72",
+            "text": "how they obviously emotionally crippled"
+        },
+        {
+            "start": "229.48",
+            "dur": "2.97",
+            "text": "her a young daughter who apparently came"
+        },
+        {
+            "start": "231.25",
+            "dur": "2.849",
+            "text": "up to her and said mom is it true that"
+        },
+        {
+            "start": "232.45",
+            "dur": "3.659",
+            "text": "there are biological reasons why there"
+        },
+        {
+            "start": "234.099",
+            "dur": "4.591",
+            "text": "are fewer women in tech and leadership"
+        },
+        {
+            "start": "236.109",
+            "dur": "4.291",
+            "text": "now it seems to me that that was not"
+        },
+        {
+            "start": "238.69",
+            "dur": "2.939",
+            "text": "exactly the claim you were making is it"
+        },
+        {
+            "start": "240.4",
+            "dur": "2.339",
+            "text": "true there are biological reasons why"
+        },
+        {
+            "start": "241.629",
+            "dur": "2.82",
+            "text": "there are fewer women in tech and"
+        },
+        {
+            "start": "242.739",
+            "dur": "4.981",
+            "text": "leadership what's your response to the"
+        },
+        {
+            "start": "244.449",
+            "dur": "7.111",
+            "text": "YouTube CEO well I mean to me we could"
+        },
+        {
+            "start": "247.72",
+            "dur": "7.079",
+            "text": "tell what Piers Morgan was trying to do"
+        },
+        {
+            "start": "251.56",
+            "dur": "5.85",
+            "text": "to you on his show by taking a little"
+        },
+        {
+            "start": "254.799",
+            "dur": "5.041",
+            "text": "kid out and saying oh aren't you sorry"
+        },
+        {
+            "start": "257.41",
+            "dur": "6.42",
+            "text": "for him right I mean they're just trying"
+        },
+        {
+            "start": "259.84",
+            "dur": "5.4",
+            "text": "to guilt me so I do want to get that one"
+        },
+        {
+            "start": "263.83",
+            "dur": "2.43",
+            "text": "friend yeah I do want to ask you about"
+        },
+        {
+            "start": "265.24",
+            "dur": "2.489",
+            "text": "what the what the political"
+        },
+        {
+            "start": "266.26",
+            "dur": "2.55",
+            "text": "representation is like inside Google"
+        },
+        {
+            "start": "267.729",
+            "dur": "2.881",
+            "text": "because there was a poll sort of an"
+        },
+        {
+            "start": "268.81",
+            "dur": "4.53",
+            "text": "informal poll that came out this morning"
+        },
+        {
+            "start": "270.61",
+            "dur": "4.38",
+            "text": "that said that 56% of people who were"
+        },
+        {
+            "start": "273.34",
+            "dur": "3.21",
+            "text": "responding to this online poll who are"
+        },
+        {
+            "start": "274.99",
+            "dur": "4.53",
+            "text": "working at Google said that they were"
+        },
+        {
+            "start": "276.55",
+            "dur": "4.38",
+            "text": "against your firing number one you know"
+        },
+        {
+            "start": "279.52",
+            "dur": "3.019",
+            "text": "are there a lot of people inside Google"
+        },
+        {
+            "start": "280.93",
+            "dur": "3.82",
+            "text": "who have been expressing support for you"
+        },
+        {
+            "start": "282.539",
+            "dur": "3.321",
+            "text": "yes since I've"
+        },
+        {
+            "start": "284.75",
+            "dur": "3.21",
+            "text": "wrote it there have been many people"
+        },
+        {
+            "start": "285.86",
+            "dur": "4.68",
+            "text": "that privately messaged me and said yeah"
+        },
+        {
+            "start": "287.96",
+            "dur": "5.28",
+            "text": "I support you I agree this is a real"
+        },
+        {
+            "start": "290.54",
+            "dur": "4.77",
+            "text": "problem do you think that Google is"
+        },
+        {
+            "start": "293.24",
+            "dur": "3.57",
+            "text": "biasing their search results in the way"
+        },
+        {
+            "start": "295.31",
+            "dur": "2.76",
+            "text": "they do business toward the left do you"
+        },
+        {
+            "start": "296.81",
+            "dur": "2.55",
+            "text": "think that how they're treating you is"
+        },
+        {
+            "start": "298.07",
+            "dur": "3.87",
+            "text": "reflective of how they do business as a"
+        },
+        {
+            "start": "299.36",
+            "dur": "4.47",
+            "text": "company I don't know about biasing"
+        },
+        {
+            "start": "301.94",
+            "dur": "5.27",
+            "text": "search results but they may definitely"
+        },
+        {
+            "start": "303.83",
+            "dur": "6.96",
+            "text": "be biasing who they do business with"
+        },
+        {
+            "start": "307.21",
+            "dur": "4.81",
+            "text": "okay so uh and inside the company itself"
+        },
+        {
+            "start": "310.79",
+            "dur": "4.02",
+            "text": "is it do you think that there is a"
+        },
+        {
+            "start": "312.02",
+            "dur": "4.65",
+            "text": "obvious political preference for you"
+        },
+        {
+            "start": "314.81",
+            "dur": "4.41",
+            "text": "know folks on the left you know if you"
+        },
+        {
+            "start": "316.67",
+            "dur": "4.38",
+            "text": "had written a memo about how black lives"
+        },
+        {
+            "start": "319.22",
+            "dur": "3.27",
+            "text": "matter was the cause of the day and that"
+        },
+        {
+            "start": "321.05",
+            "dur": "2.28",
+            "text": "really mattered more than anything else"
+        },
+        {
+            "start": "322.49",
+            "dur": "2.37",
+            "text": "I mean they're all these sort of"
+        },
+        {
+            "start": "323.33",
+            "dur": "2.58",
+            "text": "internal Google chats apparently that"
+        },
+        {
+            "start": "324.86",
+            "dur": "2.97",
+            "text": "you're a part of these Google message"
+        },
+        {
+            "start": "325.91",
+            "dur": "3.63",
+            "text": "boards have you ever seen stuff like"
+        },
+        {
+            "start": "327.83",
+            "dur": "2.88",
+            "text": "that politically oriented material"
+        },
+        {
+            "start": "329.54",
+            "dur": "4.86",
+            "text": "toward the left and has that ever been a"
+        },
+        {
+            "start": "330.71",
+            "dur": "7.68",
+            "text": "problem for anyone yeah so you can"
+        },
+        {
+            "start": "334.4",
+            "dur": "5.84",
+            "text": "openly shame white people or all men and"
+        },
+        {
+            "start": "338.39",
+            "dur": "6.3",
+            "text": "we do this in our company-wide meeting"
+        },
+        {
+            "start": "340.24",
+            "dur": "9.1",
+            "text": "so yes there's definitely a bias towards"
+        },
+        {
+            "start": "344.69",
+            "dur": "6.18",
+            "text": "certain movements we had a whole TGIF"
+        },
+        {
+            "start": "349.34",
+            "dur": "4.62",
+            "text": "that was for the black lives matter"
+        },
+        {
+            "start": "350.87",
+            "dur": "4.41",
+            "text": "movement and in can you me some example"
+        },
+        {
+            "start": "353.96",
+            "dur": "2.28",
+            "text": "mutate you have company-wide meetings"
+        },
+        {
+            "start": "355.28",
+            "dur": "2.43",
+            "text": "where people are shamed"
+        },
+        {
+            "start": "356.24",
+            "dur": "3.15",
+            "text": "what does that what does that sound like"
+        },
+        {
+            "start": "357.71",
+            "dur": "4.83",
+            "text": "I can give me an example of some stuff"
+        },
+        {
+            "start": "359.39",
+            "dur": "6.96",
+            "text": "that people have said so I mean one"
+        },
+        {
+            "start": "362.54",
+            "dur": "7.5",
+            "text": "example was just that someone wrote a"
+        },
+        {
+            "start": "366.35",
+            "dur": "7.23",
+            "text": "question and then it had something to do"
+        },
+        {
+            "start": "370.04",
+            "dur": "6.06",
+            "text": "with gender she was a woman and out of"
+        },
+        {
+            "start": "373.58",
+            "dur": "4.8",
+            "text": "300 votes fifty of them were downloaded"
+        },
+        {
+            "start": "376.1",
+            "dur": "4.35",
+            "text": "and she was complaining about how she"
+        },
+        {
+            "start": "378.38",
+            "dur": "8.24",
+            "text": "didn't feel included at Google because"
+        },
+        {
+            "start": "380.45",
+            "dur": "9.15",
+            "text": "she got one six of them downloads and I"
+        },
+        {
+            "start": "386.62",
+            "dur": "7.06",
+            "text": "don't there were many other just random"
+        },
+        {
+            "start": "389.6",
+            "dur": "5.91",
+            "text": "examples okay so you know with with all"
+        },
+        {
+            "start": "393.68",
+            "dur": "2.73",
+            "text": "of this said number one you know I think"
+        },
+        {
+            "start": "395.51",
+            "dur": "2.64",
+            "text": "you have a lot of broad public support"
+        },
+        {
+            "start": "396.41",
+            "dur": "3.06",
+            "text": "obviously but it what do you think this"
+        },
+        {
+            "start": "398.15",
+            "dur": "3.45",
+            "text": "says about the left's views of science"
+        },
+        {
+            "start": "399.47",
+            "dur": "3.81",
+            "text": "because there's an article in Slate for"
+        },
+        {
+            "start": "401.6",
+            "dur": "3.75",
+            "text": "example today saying science is bad now"
+        },
+        {
+            "start": "403.28",
+            "dur": "5.22",
+            "text": "we we've now found that science is bad"
+        },
+        {
+            "start": "405.35",
+            "dur": "5.46",
+            "text": "Susan watch kick as I say she said at"
+        },
+        {
+            "start": "408.5",
+            "dur": "3.9",
+            "text": "the very end of her of her screed she"
+        },
+        {
+            "start": "410.81",
+            "dur": "2.79",
+            "text": "said that that these are questions that"
+        },
+        {
+            "start": "412.4",
+            "dur": "2.52",
+            "text": "shouldn't even be asked is a direct"
+        },
+        {
+            "start": "413.6",
+            "dur": "3.69",
+            "text": "quote from her piece at Forbes today she"
+        },
+        {
+            "start": "414.92",
+            "dur": "3.46",
+            "text": "said for example for instance what if we"
+        },
+        {
+            "start": "417.29",
+            "dur": "2.98",
+            "text": "replace the word women in"
+        },
+        {
+            "start": "418.38",
+            "dur": "3.3",
+            "text": "with another group what if the memo said"
+        },
+        {
+            "start": "420.27",
+            "dur": "4.02",
+            "text": "that biological differences amongst"
+        },
+        {
+            "start": "421.68",
+            "dur": "4.23",
+            "text": "black Hispanic or LGBTQ employees"
+        },
+        {
+            "start": "424.29",
+            "dur": "3.33",
+            "text": "explained their under-representation and"
+        },
+        {
+            "start": "425.91",
+            "dur": "3.12",
+            "text": "tech and leadership roles which some"
+        },
+        {
+            "start": "427.62",
+            "dur": "2.91",
+            "text": "people still be discussing the merit of"
+        },
+        {
+            "start": "429.03",
+            "dur": "3.33",
+            "text": "the memos arguments or there be a"
+        },
+        {
+            "start": "430.53",
+            "dur": "4.61",
+            "text": "universal call for swift action against"
+        },
+        {
+            "start": "432.36",
+            "dur": "5.13",
+            "text": "its author what do you make of the left"
+        },
+        {
+            "start": "435.14",
+            "dur": "4.63",
+            "text": "essentially saying that questions can"
+        },
+        {
+            "start": "437.49",
+            "dur": "4.05",
+            "text": "never be asked about topics where the"
+        },
+        {
+            "start": "439.77",
+            "dur": "4.77",
+            "text": "answer may not favor what the Left"
+        },
+        {
+            "start": "441.54",
+            "dur": "6.45",
+            "text": "wishes it to say yet they're at least"
+        },
+        {
+            "start": "444.54",
+            "dur": "6.99",
+            "text": "putting their ideology before truth in"
+        },
+        {
+            "start": "447.99",
+            "dur": "6.24",
+            "text": "these cases and she's just trying to"
+        },
+        {
+            "start": "451.53",
+            "dur": "6.09",
+            "text": "guilt me by association with like Nazis"
+        },
+        {
+            "start": "454.23",
+            "dur": "6.21",
+            "text": "or something and you know when one group"
+        },
+        {
+            "start": "457.62",
+            "dur": "4.8",
+            "text": "is just trying to guilt you and call you"
+        },
+        {
+            "start": "460.44",
+            "dur": "4.8",
+            "text": "names and the other is actually using"
+        },
+        {
+            "start": "462.42",
+            "dur": "5.55",
+            "text": "evidence in science you really know"
+        },
+        {
+            "start": "465.24",
+            "dur": "4.17",
+            "text": "which side is actually seeking truth and"
+        },
+        {
+            "start": "467.97",
+            "dur": "3.66",
+            "text": "this I think is one of the points that"
+        },
+        {
+            "start": "469.41",
+            "dur": "4.05",
+            "text": "that is why this story has captured the"
+        },
+        {
+            "start": "471.63",
+            "dur": "3.39",
+            "text": "imagination is because the memo itself"
+        },
+        {
+            "start": "473.46",
+            "dur": "3.66",
+            "text": "is really moderate in tone and tenor"
+        },
+        {
+            "start": "475.02",
+            "dur": "3.36",
+            "text": "even people like Kirsten powers who are"
+        },
+        {
+            "start": "477.12",
+            "dur": "2.7",
+            "text": "on the Left have said they really don't"
+        },
+        {
+            "start": "478.38",
+            "dur": "3.12",
+            "text": "see what the what the big problem here"
+        },
+        {
+            "start": "479.82",
+            "dur": "3.36",
+            "text": "is or why people are going nuts over it"
+        },
+        {
+            "start": "481.5",
+            "dur": "2.88",
+            "text": "and yet you step out of line at a"
+        },
+        {
+            "start": "483.18",
+            "dur": "2.25",
+            "text": "company like Google and the reason"
+        },
+        {
+            "start": "484.38",
+            "dur": "2.25",
+            "text": "people are freaked out about this is"
+        },
+        {
+            "start": "485.43",
+            "dur": "2.52",
+            "text": "obviously Google is a super powerful"
+        },
+        {
+            "start": "486.63",
+            "dur": "2.91",
+            "text": "company but this happens inside"
+        },
+        {
+            "start": "487.95",
+            "dur": "3.54",
+            "text": "Hollywood all the time this happens"
+        },
+        {
+            "start": "489.54",
+            "dur": "4.5",
+            "text": "inside journalistic institutions all the"
+        },
+        {
+            "start": "491.49",
+            "dur": "4.02",
+            "text": "time obviously so Jim's d'amore Google"
+        },
+        {
+            "start": "494.04",
+            "dur": "3.27",
+            "text": "metal guy what comes next for you I've"
+        },
+        {
+            "start": "495.51",
+            "dur": "4.8",
+            "text": "offered you off the air I offered you a"
+        },
+        {
+            "start": "497.31",
+            "dur": "5.82",
+            "text": "problem this gig to write about stem"
+        },
+        {
+            "start": "500.31",
+            "dur": "4.47",
+            "text": "issues particularly with regard to two"
+        },
+        {
+            "start": "503.13",
+            "dur": "3.81",
+            "text": "differences between men and women and"
+        },
+        {
+            "start": "504.78",
+            "dur": "3.78",
+            "text": "social science data and all of us but I"
+        },
+        {
+            "start": "506.94",
+            "dur": "3.12",
+            "text": "assume that you have job offers that are"
+        },
+        {
+            "start": "508.56",
+            "dur": "3.51",
+            "text": "coming in from a wide variety of sources"
+        },
+        {
+            "start": "510.06",
+            "dur": "4.55",
+            "text": "what comes what comes next for you now"
+        },
+        {
+            "start": "512.07",
+            "dur": "5.67",
+            "text": "that Google is no longer in your future"
+        },
+        {
+            "start": "514.61",
+            "dur": "7.72",
+            "text": "I'm still evaluating all my options it's"
+        },
+        {
+            "start": "517.74",
+            "dur": "5.88",
+            "text": "been a really busy pursuit and and I've"
+        },
+        {
+            "start": "522.33",
+            "dur": "3.54",
+            "text": "heard also that you were offered a"
+        },
+        {
+            "start": "523.62",
+            "dur": "4.74",
+            "text": "position by WikiLeaks out urge you not"
+        },
+        {
+            "start": "525.87",
+            "dur": "4.62",
+            "text": "to take them I think that is probably a"
+        },
+        {
+            "start": "528.36",
+            "dur": "4.29",
+            "text": "bad career move but it's up to you"
+        },
+        {
+            "start": "530.49",
+            "dur": "4.2",
+            "text": "you're free man and so I say well thank"
+        },
+        {
+            "start": "532.65",
+            "dur": "3.57",
+            "text": "you for for you know writing this memo"
+        },
+        {
+            "start": "534.69",
+            "dur": "2.94",
+            "text": "because I think obviously when more"
+        },
+        {
+            "start": "536.22",
+            "dur": "4.17",
+            "text": "truth is promulgated it's a better"
+        },
+        {
+            "start": "537.63",
+            "dur": "5.37",
+            "text": "country and and please keep us updated"
+        },
+        {
+            "start": "540.39",
+            "dur": "4.08",
+            "text": "as far as your own lawsuit or is that"
+        },
+        {
+            "start": "543",
+            "dur": "2.79",
+            "text": "actually going to happen or is that just"
+        },
+        {
+            "start": "544.47",
+            "dur": "3.93",
+            "text": "a possibility at this point of lawsuit"
+        },
+        {
+            "start": "545.79",
+            "dur": "5.08",
+            "text": "against Google yet it's a possibility"
+        },
+        {
+            "start": "548.4",
+            "dur": "5.35",
+            "text": "I'm definitely pursuing it"
+        },
+        {
+            "start": "550.87",
+            "dur": "5.82",
+            "text": "okay so keep us updated on that and"
+        },
+        {
+            "start": "553.75",
+            "dur": "5.28",
+            "text": "obviously we are rooting for for you as"
+        },
+        {
+            "start": "556.69",
+            "dur": "4.05",
+            "text": "far as the whistleblowing aspect of this"
+        },
+        {
+            "start": "559.03",
+            "dur": "2.97",
+            "text": "and please keep writing through things"
+        },
+        {
+            "start": "560.74",
+            "dur": "2.52",
+            "text": "even though there's pretty tremendous"
+        },
+        {
+            "start": "562",
+            "dur": "3.27",
+            "text": "blowback thanks so much for joining the"
+        },
+        {
+            "start": "563.26",
+            "dur": "3.75",
+            "text": "show I really appreciate it all right"
+        },
+        {
+            "start": "565.27",
+            "dur": "3.27",
+            "text": "thank thanks as James d'amour he's the"
+        },
+        {
+            "start": "567.01",
+            "dur": "3.96",
+            "text": "senior engineer at Google who penned"
+        },
+        {
+            "start": "568.54",
+            "dur": "4.38",
+            "text": "that diversity memo that regarding why"
+        },
+        {
+            "start": "570.97",
+            "dur": "3.99",
+            "text": "we Google so changes practices if we"
+        },
+        {
+            "start": "572.92",
+            "dur": "3.87",
+            "text": "wants to attract more women actually and"
+        },
+        {
+            "start": "574.96",
+            "dur": "3.81",
+            "text": "he got shellacked for it by the left and"
+        },
+        {
+            "start": "576.79",
+            "dur": "4.26",
+            "text": "and fired from from Google for that"
+        },
+        {
+            "start": "578.77",
+            "dur": "4.86",
+            "text": "James to more senior engineer at Google"
+        },
+        {
+            "start": "581.05",
+            "dur": "4.8",
+            "text": "thanks so much okay so in other news I"
+        },
+        {
+            "start": "583.63",
+            "dur": "3.45",
+            "text": "want to talk about what's going on with"
+        },
+        {
+            "start": "585.85",
+            "dur": "4.11",
+            "text": "North Korea because obviously this"
+        },
+        {
+            "start": "587.08",
+            "dur": "4.29",
+            "text": "continues to unfold let's start with"
+        },
+        {
+            "start": "589.96",
+            "dur": "2.73",
+            "text": "Brian Williams so Brian Williams who"
+        },
+        {
+            "start": "591.37",
+            "dur": "3",
+            "text": "should not be a member of the media"
+        },
+        {
+            "start": "592.69",
+            "dur": "4.02",
+            "text": "after repeatedly lying about his own"
+        },
+        {
+            "start": "594.37",
+            "dur": "4.92",
+            "text": "past over and over and over Brian"
+        },
+        {
+            "start": "596.71",
+            "dur": "4.38",
+            "text": "Williams was on MSNBC last night where"
+        },
+        {
+            "start": "599.29",
+            "dur": "4.62",
+            "text": "he is so respected because the 10s NBC"
+        },
+        {
+            "start": "601.09",
+            "dur": "4.56",
+            "text": "and Brian Williams said that the reason"
+        },
+        {
+            "start": "603.91",
+            "dur": "4.32",
+            "text": "that the media are covering North Korea"
+        },
+        {
+            "start": "605.65",
+            "dur": "4.38",
+            "text": "in such insane terms is because it is"
+        },
+        {
+            "start": "608.23",
+            "dur": "3.18",
+            "text": "their job to scare people now before we"
+        },
+        {
+            "start": "610.03",
+            "dur": "3.51",
+            "text": "get to Brian Williams on this I do want"
+        },
+        {
+            "start": "611.41",
+            "dur": "3.84",
+            "text": "to say that I think that a lot of this"
+        },
+        {
+            "start": "613.54",
+            "dur": "3.27",
+            "text": "is overblown North Korea has been"
+        },
+        {
+            "start": "615.25",
+            "dur": "2.88",
+            "text": "pursuing nuclear weapons for a long time"
+        },
+        {
+            "start": "616.81",
+            "dur": "4.41",
+            "text": "they've had nuclear weapons for a long"
+        },
+        {
+            "start": "618.13",
+            "dur": "5.1",
+            "text": "time obviously it's not good if an ICBM"
+        },
+        {
+            "start": "621.22",
+            "dur": "3.99",
+            "text": "is capable of reaching the United States"
+        },
+        {
+            "start": "623.23",
+            "dur": "4.65",
+            "text": "but mutually assured destruction is"
+        },
+        {
+            "start": "625.21",
+            "dur": "4.2",
+            "text": "still a thing and kim jeong-hoon or his"
+        },
+        {
+            "start": "627.88",
+            "dur": "3.36",
+            "text": "successors they would be fooled the"
+        },
+        {
+            "start": "629.41",
+            "dur": "2.88",
+            "text": "absolute fools if they were to try and"
+        },
+        {
+            "start": "631.24",
+            "dur": "2.31",
+            "text": "attack the United States we would wipe"
+        },
+        {
+            "start": "632.29",
+            "dur": "1.83",
+            "text": "them off the face of the earth in no"
+        },
+        {
+            "start": "633.55",
+            "dur": "2.79",
+            "text": "time flat"
+        },
+        {
+            "start": "634.12",
+            "dur": "4.92",
+            "text": "I mean legitimately if they fired a nuke"
+        },
+        {
+            "start": "636.34",
+            "dur": "4.53",
+            "text": "at us they would be toast their country"
+        },
+        {
+            "start": "639.04",
+            "dur": "3.54",
+            "text": "would be a sea of glass within moments I"
+        },
+        {
+            "start": "640.87",
+            "dur": "4.26",
+            "text": "mean this is not even talking about the"
+        },
+        {
+            "start": "642.58",
+            "dur": "3.96",
+            "text": "USSR right now the fact is that even if"
+        },
+        {
+            "start": "645.13",
+            "dur": "3",
+            "text": "their missile hit here it would do you"
+        },
+        {
+            "start": "646.54",
+            "dur": "4.32",
+            "text": "know awful awful damage that would be"
+        },
+        {
+            "start": "648.13",
+            "dur": "4.2",
+            "text": "that'd be terrible but we would survive"
+        },
+        {
+            "start": "650.86",
+            "dur": "2.55",
+            "text": "it and then we would nuke the living"
+        },
+        {
+            "start": "652.33",
+            "dur": "2.37",
+            "text": "crap out of them and that would be the"
+        },
+        {
+            "start": "653.41",
+            "dur": "3.36",
+            "text": "end of that so mutually assured"
+        },
+        {
+            "start": "654.7",
+            "dur": "3.78",
+            "text": "destruction is still a thing South Korea"
+        },
+        {
+            "start": "656.77",
+            "dur": "3.27",
+            "text": "it's a little bit it's a little bit more"
+        },
+        {
+            "start": "658.48",
+            "dur": "3.3",
+            "text": "tenuous because North Korea has been"
+        },
+        {
+            "start": "660.04",
+            "dur": "4.02",
+            "text": "pursuing violent incidents against South"
+        },
+        {
+            "start": "661.78",
+            "dur": "4.47",
+            "text": "Korea for years and years and years and"
+        },
+        {
+            "start": "664.06",
+            "dur": "5.22",
+            "text": "years they sank a South Korean ship a"
+        },
+        {
+            "start": "666.25",
+            "dur": "5.34",
+            "text": "few years back they killed a member of"
+        },
+        {
+            "start": "669.28",
+            "dur": "5.46",
+            "text": "the the North Korean leaders family with"
+        },
+        {
+            "start": "671.59",
+            "dur": "6.75",
+            "text": "VX gas at nerve gas at like an airport"
+        },
+        {
+            "start": "674.74",
+            "dur": "4.71",
+            "text": "so if you're South Korea mutually"
+        },
+        {
+            "start": "678.34",
+            "dur": "2.7",
+            "text": "assured destruction actually doesn't do"
+        },
+        {
+            "start": "679.45",
+            "dur": "2.55",
+            "text": "the trick for you because you always"
+        },
+        {
+            "start": "681.04",
+            "dur": "2.4",
+            "text": "have to fear that there's gonna be a"
+        },
+        {
+            "start": "682",
+            "dur": "2.49",
+            "text": "conventional war under the umbrella of"
+        },
+        {
+            "start": "683.44",
+            "dur": "3.06",
+            "text": "the mutually assured"
+        },
+        {
+            "start": "684.49",
+            "dur": "3.75",
+            "text": "action with the North Koreans but for"
+        },
+        {
+            "start": "686.5",
+            "dur": "2.76",
+            "text": "the United States are we deeply worried"
+        },
+        {
+            "start": "688.24",
+            "dur": "1.92",
+            "text": "that they're going to destroy us no"
+        },
+        {
+            "start": "689.26",
+            "dur": "2.94",
+            "text": "we're not deeply worried they're going"
+        },
+        {
+            "start": "690.16",
+            "dur": "3.75",
+            "text": "to destroy us I'm not losing a lot of"
+        },
+        {
+            "start": "692.2",
+            "dur": "2.97",
+            "text": "sleep over the possibility that LA is"
+        },
+        {
+            "start": "693.91",
+            "dur": "3.36",
+            "text": "going to be destroyed even though we are"
+        },
+        {
+            "start": "695.17",
+            "dur": "4.979",
+            "text": "under the umbrella of the North Korean"
+        },
+        {
+            "start": "697.27",
+            "dur": "5.04",
+            "text": "nuclear missile I'm really like really I"
+        },
+        {
+            "start": "700.149",
+            "dur": "3.661",
+            "text": "think that a lot of this is is hyped to"
+        },
+        {
+            "start": "702.31",
+            "dur": "3.57",
+            "text": "the extreme but Brian wind says that the"
+        },
+        {
+            "start": "703.81",
+            "dur": "4.38",
+            "text": "media having to have a duty to hike this"
+        },
+        {
+            "start": "705.88",
+            "dur": "4.68",
+            "text": "to the extreme my job tonight actually"
+        },
+        {
+            "start": "708.19",
+            "dur": "5.19",
+            "text": "is to scare people to death on this"
+        },
+        {
+            "start": "710.56",
+            "dur": "5.58",
+            "text": "subject so the talk isn't as free as it"
+        },
+        {
+            "start": "713.38",
+            "dur": "5.07",
+            "text": "is about a preemptive or surgical"
+        },
+        {
+            "start": "716.14",
+            "dur": "3.99",
+            "text": "military strike okay why did their job"
+        },
+        {
+            "start": "718.45",
+            "dur": "2.97",
+            "text": "to scare people to death and this is the"
+        },
+        {
+            "start": "720.13",
+            "dur": "2.85",
+            "text": "problem with the media the media sees it"
+        },
+        {
+            "start": "721.42",
+            "dur": "4.08",
+            "text": "as their job to push you into a certain"
+        },
+        {
+            "start": "722.98",
+            "dur": "4.35",
+            "text": "position they see it as their job to"
+        },
+        {
+            "start": "725.5",
+            "dur": "2.79",
+            "text": "evoke a certain emotional response in"
+        },
+        {
+            "start": "727.33",
+            "dur": "2.699",
+            "text": "you and it's something that we ought to"
+        },
+        {
+            "start": "728.29",
+            "dur": "3.87",
+            "text": "keep in mind when we look at media"
+        },
+        {
+            "start": "730.029",
+            "dur": "3.541",
+            "text": "coverage of world events for many"
+        },
+        {
+            "start": "732.16",
+            "dur": "2.489",
+            "text": "members of the media it is not just"
+        },
+        {
+            "start": "733.57",
+            "dur": "3",
+            "text": "about covering the events that are"
+        },
+        {
+            "start": "734.649",
+            "dur": "3.63",
+            "text": "important to you it is about trying to"
+        },
+        {
+            "start": "736.57",
+            "dur": "3.69",
+            "text": "cover the events so as to evoke an"
+        },
+        {
+            "start": "738.279",
+            "dur": "3.81",
+            "text": "emotional response in a particular way"
+        },
+        {
+            "start": "740.26",
+            "dur": "3.42",
+            "text": "another example of this today on an"
+        },
+        {
+            "start": "742.089",
+            "dur": "3.091",
+            "text": "unrelated topic so there's a poll that"
+        },
+        {
+            "start": "743.68",
+            "dur": "3.48",
+            "text": "lefties are passing around from The"
+        },
+        {
+            "start": "745.18",
+            "dur": "3.57",
+            "text": "Washington Post that says 52 percent of"
+        },
+        {
+            "start": "747.16",
+            "dur": "3.66",
+            "text": "Republicans would support the"
+        },
+        {
+            "start": "748.75",
+            "dur": "3.24",
+            "text": "postponement of the 2020 election if"
+        },
+        {
+            "start": "750.82",
+            "dur": "3.42",
+            "text": "President Trump called for such a"
+        },
+        {
+            "start": "751.99",
+            "dur": "3.75",
+            "text": "postponement like shocking result over"
+        },
+        {
+            "start": "754.24",
+            "dur": "3.75",
+            "text": "half of Republicans would be fine with"
+        },
+        {
+            "start": "755.74",
+            "dur": "3.81",
+            "text": "postponing the 2020 election if Trump"
+        },
+        {
+            "start": "757.99",
+            "dur": "3.06",
+            "text": "claimed voter fraud and said that he"
+        },
+        {
+            "start": "759.55",
+            "dur": "3.33",
+            "text": "didn't want to hold it the polls showed"
+        },
+        {
+            "start": "761.05",
+            "dur": "3.3",
+            "text": "that 56% of Republicans would be fine"
+        },
+        {
+            "start": "762.88",
+            "dur": "3.269",
+            "text": "with postponing it of Congress were to"
+        },
+        {
+            "start": "764.35",
+            "dur": "2.76",
+            "text": "support Trump in that effort okay so"
+        },
+        {
+            "start": "766.149",
+            "dur": "2.641",
+            "text": "you're getting a lot of thing pieces"
+        },
+        {
+            "start": "767.11",
+            "dur": "3.39",
+            "text": "from the left speaking of the media"
+        },
+        {
+            "start": "768.79",
+            "dur": "3.03",
+            "text": "though pushing people to an emotional"
+        },
+        {
+            "start": "770.5",
+            "dur": "3.42",
+            "text": "response it's important to know how they"
+        },
+        {
+            "start": "771.82",
+            "dur": "4.23",
+            "text": "got this particular result this was a"
+        },
+        {
+            "start": "773.92",
+            "dur": "3.84",
+            "text": "push poll by The Washington Post first"
+        },
+        {
+            "start": "776.05",
+            "dur": "4.56",
+            "text": "it asked respondents if voter fraud was"
+        },
+        {
+            "start": "777.76",
+            "dur": "4.319",
+            "text": "real but then it asked them if they"
+        },
+        {
+            "start": "780.61",
+            "dur": "2.91",
+            "text": "thought that it occurred and if Trump"
+        },
+        {
+            "start": "782.079",
+            "dur": "2.731",
+            "text": "won the popular vote and then finally it"
+        },
+        {
+            "start": "783.52",
+            "dur": "2.52",
+            "text": "asked them if Trump said that it"
+        },
+        {
+            "start": "784.81",
+            "dur": "3.06",
+            "text": "occurred would they be in favor of"
+        },
+        {
+            "start": "786.04",
+            "dur": "3.21",
+            "text": "postponing the election sorry these good"
+        },
+        {
+            "start": "787.87",
+            "dur": "3.42",
+            "text": "results no they're not good results but"
+        },
+        {
+            "start": "789.25",
+            "dur": "3.66",
+            "text": "is it true more than half of Republicans"
+        },
+        {
+            "start": "791.29",
+            "dur": "4.53",
+            "text": "would be fine with postponing the 2020"
+        },
+        {
+            "start": "792.91",
+            "dur": "4.83",
+            "text": "election I highly highly doubt it also"
+        },
+        {
+            "start": "795.82",
+            "dur": "3.57",
+            "text": "important to recognize that these sort"
+        },
+        {
+            "start": "797.74",
+            "dur": "4.5",
+            "text": "of push polls exist from both sides you"
+        },
+        {
+            "start": "799.39",
+            "dur": "4.38",
+            "text": "know in 20 in 2016 there is a poll from"
+        },
+        {
+            "start": "802.24",
+            "dur": "3.14",
+            "text": "WPA research they found that two-thirds"
+        },
+        {
+            "start": "803.77",
+            "dur": "3.689",
+            "text": "of Democrats would take an"
+        },
+        {
+            "start": "805.38",
+            "dur": "4.6",
+            "text": "unconstitutional third Obama term over"
+        },
+        {
+            "start": "807.459",
+            "dur": "4.951",
+            "text": "Hillary Clinton opponent November 14"
+        },
+        {
+            "start": "809.98",
+            "dur": "3.57",
+            "text": "from the economists found that 39"
+        },
+        {
+            "start": "812.41",
+            "dur": "2.549",
+            "text": "percent of Democrats wish the"
+        },
+        {
+            "start": "813.55",
+            "dur": "3.45",
+            "text": "Constitution would be changed to that"
+        },
+        {
+            "start": "814.959",
+            "dur": "2.731",
+            "text": "purpose so a couple of lessons from"
+        },
+        {
+            "start": "817",
+            "dur": "2.67",
+            "text": "these things"
+        },
+        {
+            "start": "817.69",
+            "dur": "3.48",
+            "text": "first lesson is most people only like"
+        },
+        {
+            "start": "819.67",
+            "dur": "3.03",
+            "text": "the rules if they benefit them they only"
+        },
+        {
+            "start": "821.17",
+            "dur": "3.6",
+            "text": "like the elections every four years if"
+        },
+        {
+            "start": "822.7",
+            "dur": "3.72",
+            "text": "their guy's not in power but the more"
+        },
+        {
+            "start": "824.77",
+            "dur": "3.27",
+            "text": "important things the media attempt to"
+        },
+        {
+            "start": "826.42",
+            "dur": "3.99",
+            "text": "gain a particular headline and very"
+        },
+        {
+            "start": "828.04",
+            "dur": "4.59",
+            "text": "often they are they're attempting to to"
+        },
+        {
+            "start": "830.41",
+            "dur": "3.6",
+            "text": "get to that headline via the questions"
+        },
+        {
+            "start": "832.63",
+            "dur": "3.3",
+            "text": "they ask and you can see it even look in"
+        },
+        {
+            "start": "834.01",
+            "dur": "3.21",
+            "text": "the interviews that I do obviously when"
+        },
+        {
+            "start": "835.93",
+            "dur": "2.55",
+            "text": "I ask a question I'm expecting a"
+        },
+        {
+            "start": "837.22",
+            "dur": "2.88",
+            "text": "particular response from people when I"
+        },
+        {
+            "start": "838.48",
+            "dur": "3.51",
+            "text": "talked to James d'amour I'm questioning"
+        },
+        {
+            "start": "840.1",
+            "dur": "3.63",
+            "text": "him in a way that I think is important"
+        },
+        {
+            "start": "841.99",
+            "dur": "3.78",
+            "text": "but obviously the responses that he"
+        },
+        {
+            "start": "843.73",
+            "dur": "3.69",
+            "text": "gives are ones that I'm looking for"
+        },
+        {
+            "start": "845.77",
+            "dur": "3.63",
+            "text": "right I mean I'm not I'm not questioning"
+        },
+        {
+            "start": "847.42",
+            "dur": "3.48",
+            "text": "him as a feminist would who's looking"
+        },
+        {
+            "start": "849.4",
+            "dur": "3.12",
+            "text": "for a different response from from James"
+        },
+        {
+            "start": "850.9",
+            "dur": "2.94",
+            "text": "tomorrow yeah that's the way the media"
+        },
+        {
+            "start": "852.52",
+            "dur": "2.61",
+            "text": "works and so you should always take that"
+        },
+        {
+            "start": "853.84",
+            "dur": "3.45",
+            "text": "into account when you look at the"
+        },
+        {
+            "start": "855.13",
+            "dur": "3.54",
+            "text": "coverage of North Korea so the media"
+        },
+        {
+            "start": "857.29",
+            "dur": "4.23",
+            "text": "yesterday was going nuts over Trump's"
+        },
+        {
+            "start": "858.67",
+            "dur": "4.23",
+            "text": "apparently provocative threats fired in"
+        },
+        {
+            "start": "861.52",
+            "dur": "3.78",
+            "text": "the fury of the theory and the fire the"
+        },
+        {
+            "start": "862.9",
+            "dur": "5.01",
+            "text": "power the glory the fury fire power"
+        },
+        {
+            "start": "865.3",
+            "dur": "4.47",
+            "text": "glory huge emissaries bands diva right"
+        },
+        {
+            "start": "867.91",
+            "dur": "4.38",
+            "text": "they were going nuts over Trump's over"
+        },
+        {
+            "start": "869.77",
+            "dur": "4.29",
+            "text": "to the top language but the reality is"
+        },
+        {
+            "start": "872.29",
+            "dur": "3.42",
+            "text": "does any of that make a huge difference"
+        },
+        {
+            "start": "874.06",
+            "dur": "3.6",
+            "text": "in all of this not really"
+        },
+        {
+            "start": "875.71",
+            "dur": "4.02",
+            "text": "okay General James Madison out man talk"
+        },
+        {
+            "start": "877.66",
+            "dur": "3.84",
+            "text": "mattis came out yesterday and what he"
+        },
+        {
+            "start": "879.73",
+            "dur": "3.06",
+            "text": "said was quote the United States and our"
+        },
+        {
+            "start": "881.5",
+            "dur": "2.61",
+            "text": "allies have the demonstrated"
+        },
+        {
+            "start": "882.79",
+            "dur": "2.67",
+            "text": "capabilities and unquestionable"
+        },
+        {
+            "start": "884.11",
+            "dur": "3.24",
+            "text": "commitment to defend ourselves from an"
+        },
+        {
+            "start": "885.46",
+            "dur": "3.63",
+            "text": "attack kim jeong-hoon should take heed"
+        },
+        {
+            "start": "887.35",
+            "dur": "3.48",
+            "text": "of the UN Security Council's unified"
+        },
+        {
+            "start": "889.09",
+            "dur": "3.78",
+            "text": "voice and statements from government's"
+        },
+        {
+            "start": "890.83",
+            "dur": "3.24",
+            "text": "the world over who agree the DPRK that's"
+        },
+        {
+            "start": "892.87",
+            "dur": "3.66",
+            "text": "Democratic People's Republic of Korea"
+        },
+        {
+            "start": "894.07",
+            "dur": "5.07",
+            "text": "poses a threat to global security and"
+        },
+        {
+            "start": "896.53",
+            "dur": "4.29",
+            "text": "stability the DPRK must choose to stop"
+        },
+        {
+            "start": "899.14",
+            "dur": "3.66",
+            "text": "isolating itself and stand down its"
+        },
+        {
+            "start": "900.82",
+            "dur": "3.66",
+            "text": "pursuit of nuclear weapons the DPRK"
+        },
+        {
+            "start": "902.8",
+            "dur": "3.36",
+            "text": "should cease any considerations of"
+        },
+        {
+            "start": "904.48",
+            "dur": "3.06",
+            "text": "actions that would lead to the end of"
+        },
+        {
+            "start": "906.16",
+            "dur": "3.33",
+            "text": "its regime and the destruction of its"
+        },
+        {
+            "start": "907.54",
+            "dur": "3.63",
+            "text": "people that's pretty harsh language from"
+        },
+        {
+            "start": "909.49",
+            "dur": "3.81",
+            "text": "mattis but I don't see the media losing"
+        },
+        {
+            "start": "911.17",
+            "dur": "3.6",
+            "text": "their minds over that that I think is"
+        },
+        {
+            "start": "913.3",
+            "dur": "3.12",
+            "text": "last year a couple of years ago Barack"
+        },
+        {
+            "start": "914.77",
+            "dur": "3.72",
+            "text": "Obama threatens to destroy North Korea"
+        },
+        {
+            "start": "916.42",
+            "dur": "4.29",
+            "text": "so in the media obviously are attempting"
+        },
+        {
+            "start": "918.49",
+            "dur": "3.66",
+            "text": "to evoke fear in Americans that Trump's"
+        },
+        {
+            "start": "920.71",
+            "dur": "3.33",
+            "text": "precipitous nature will lead to a"
+        },
+        {
+            "start": "922.15",
+            "dur": "3.81",
+            "text": "nuclear exchange that's not what's going"
+        },
+        {
+            "start": "924.04",
+            "dur": "4.08",
+            "text": "to happen here it's not what's going to"
+        },
+        {
+            "start": "925.96",
+            "dur": "3",
+            "text": "happen here in North Korea is basically"
+        },
+        {
+            "start": "928.12",
+            "dur": "2.73",
+            "text": "they understand that they're in a"
+        },
+        {
+            "start": "928.96",
+            "dur": "3.9",
+            "text": "rhetorical pissing match now with Trump"
+        },
+        {
+            "start": "930.85",
+            "dur": "4.92",
+            "text": "and so there's a statement released by"
+        },
+        {
+            "start": "932.86",
+            "dur": "5.67",
+            "text": "the North Korean military in which they"
+        },
+        {
+            "start": "935.77",
+            "dur": "4.53",
+            "text": "basically called Trump a load of"
+        },
+        {
+            "start": "938.53",
+            "dur": "4.32",
+            "text": "nonsense they said that his threat was a"
+        },
+        {
+            "start": "940.3",
+            "dur": "4.35",
+            "text": "quote unquote load of nonsense and they"
+        },
+        {
+            "start": "942.85",
+            "dur": "3.75",
+            "text": "called him a guy the rest of reason so"
+        },
+        {
+            "start": "944.65",
+            "dur": "3.99",
+            "text": "you basically have Trump and the leader"
+        },
+        {
+            "start": "946.6",
+            "dur": "3.93",
+            "text": "of North Korea in a Twitter fight but is"
+        },
+        {
+            "start": "948.64",
+            "dur": "2.7",
+            "text": "this going to devolve into nuclear war I"
+        },
+        {
+            "start": "950.53",
+            "dur": "3.51",
+            "text": "really don't think so"
+        },
+        {
+            "start": "951.34",
+            "dur": "4.41",
+            "text": "No and here's the fact okay the fact is"
+        },
+        {
+            "start": "954.04",
+            "dur": "3.3",
+            "text": "that people who are living really under"
+        },
+        {
+            "start": "955.75",
+            "dur": "2.73",
+            "text": "the threat of North Korea are happy that"
+        },
+        {
+            "start": "957.34",
+            "dur": "3.21",
+            "text": "the United States is taking a pretty"
+        },
+        {
+            "start": "958.48",
+            "dur": "4.59",
+            "text": "militant position on all this Guam which"
+        },
+        {
+            "start": "960.55",
+            "dur": "4.29",
+            "text": "was a station that was threatened by"
+        },
+        {
+            "start": "963.07",
+            "dur": "4.59",
+            "text": "North Korea in response to Trump's"
+        },
+        {
+            "start": "964.84",
+            "dur": "4.02",
+            "text": "threat they the governor of Guam he he"
+        },
+        {
+            "start": "967.66",
+            "dur": "4.71",
+            "text": "likes from I mean here here he is"
+        },
+        {
+            "start": "968.86",
+            "dur": "6.36",
+            "text": "praising Trump so do you think that the"
+        },
+        {
+            "start": "972.37",
+            "dur": "5.13",
+            "text": "president's remarks are getting to the"
+        },
+        {
+            "start": "975.22",
+            "dur": "4.77",
+            "text": "heart of the problem no longer strategic"
+        },
+        {
+            "start": "977.5",
+            "dur": "5.88",
+            "text": "patience and does that play to solving"
+        },
+        {
+            "start": "979.99",
+            "dur": "5.46",
+            "text": "this problem in the big picture as far"
+        },
+        {
+            "start": "983.38",
+            "dur": "5.01",
+            "text": "as I'm concerned as an American citizen"
+        },
+        {
+            "start": "985.45",
+            "dur": "6.03",
+            "text": "I want a president that says that if any"
+        },
+        {
+            "start": "988.39",
+            "dur": "6.3",
+            "text": "nation such as North Korea attacks warm"
+        },
+        {
+            "start": "991.48",
+            "dur": "6.36",
+            "text": "attacks Honolulu attacks the west coast"
+        },
+        {
+            "start": "994.69",
+            "dur": "5.7",
+            "text": "that they will be met with hell and fury"
+        },
+        {
+            "start": "997.84",
+            "dur": "5.34",
+            "text": "what I'm concerned about is if a u.s."
+        },
+        {
+            "start": "1000.39",
+            "dur": "4.86",
+            "text": "senator says initiate an attack and"
+        },
+        {
+            "start": "1003.18",
+            "dur": "4.5",
+            "text": "causing alarm and remembering that there"
+        },
+        {
+            "start": "1005.25",
+            "dur": "4.68",
+            "text": "are they're in the Mariana Islands this"
+        },
+        {
+            "start": "1007.68",
+            "dur": "4.44",
+            "text": "is American sovereign soil this is 600"
+        },
+        {
+            "start": "1009.93",
+            "dur": "5.1",
+            "text": "mile archipelago violence similar to"
+        },
+        {
+            "start": "1012.12",
+            "dur": "5.19",
+            "text": "Hawaii where there are over 200,000"
+        },
+        {
+            "start": "1015.03",
+            "dur": "4.68",
+            "text": "American citizens Rio it's important"
+        },
+        {
+            "start": "1017.31",
+            "dur": "4.23",
+            "text": "that as we make decisions that those"
+        },
+        {
+            "start": "1019.71",
+            "dur": "5.13",
+            "text": "folks that are in a position of"
+        },
+        {
+            "start": "1021.54",
+            "dur": "8.07",
+            "text": "leadership that they understand to that"
+        },
+        {
+            "start": "1024.84",
+            "dur": "7.65",
+            "text": "war is the last option because not only"
+        },
+        {
+            "start": "1029.61",
+            "dur": "5.97",
+            "text": "will tens of thousands American military"
+        },
+        {
+            "start": "1032.49",
+            "dur": "5.34",
+            "text": "forces independence of be affected by a"
+        },
+        {
+            "start": "1035.58",
+            "dur": "4.86",
+            "text": "regional war right but because of the"
+        },
+        {
+            "start": "1037.83",
+            "dur": "5.04",
+            "text": "western Pacific has American soil in it"
+        },
+        {
+            "start": "1040.44",
+            "dur": "5.28",
+            "text": "then a couple hundred thousand Americans"
+        },
+        {
+            "start": "1042.87",
+            "dur": "4.44",
+            "text": "could get caught in the crosshairs so I"
+        },
+        {
+            "start": "1045.72",
+            "dur": "4.14",
+            "text": "think it's important to be very strong"
+        },
+        {
+            "start": "1047.31",
+            "dur": "4.44",
+            "text": "right at the same time be calm"
+        },
+        {
+            "start": "1049.86",
+            "dur": "3.18",
+            "text": "and I think everybody is on board with"
+        },
+        {
+            "start": "1051.75",
+            "dur": "2.94",
+            "text": "this and I don't think Trump is"
+        },
+        {
+            "start": "1053.04",
+            "dur": "3.09",
+            "text": "precipitously into launching nuclear war"
+        },
+        {
+            "start": "1054.69",
+            "dur": "3.03",
+            "text": "but I've got a lot of this is the"
+        },
+        {
+            "start": "1056.13",
+            "dur": "3.36",
+            "text": "Democrats playing politics with all of"
+        },
+        {
+            "start": "1057.72",
+            "dur": "5.76",
+            "text": "this a lot of this is the Democrat"
+        },
+        {
+            "start": "1059.49",
+            "dur": "6.09",
+            "text": "attempting to play politics with with"
+        },
+        {
+            "start": "1063.48",
+            "dur": "4.77",
+            "text": "national security and basically suggest"
+        },
+        {
+            "start": "1065.58",
+            "dur": "4.5",
+            "text": "that Trump is a madman who is going to"
+        },
+        {
+            "start": "1068.25",
+            "dur": "3.36",
+            "text": "get us into a nuclear war and MSNBC"
+        },
+        {
+            "start": "1070.08",
+            "dur": "3.03",
+            "text": "military analysts essentially said this"
+        },
+        {
+            "start": "1071.61",
+            "dur": "3.33",
+            "text": "he said if Trump ordered a nuclear"
+        },
+        {
+            "start": "1073.11",
+            "dur": "9.35",
+            "text": "launch mattis would defy it because"
+        },
+        {
+            "start": "1074.94",
+            "dur": "9.59",
+            "text": "obviously Trump is crazy he quit for"
+        },
+        {
+            "start": "1082.46",
+            "dur": "3.33",
+            "text": "what if he orders a nuclear strike I"
+        },
+        {
+            "start": "1084.53",
+            "dur": "3.21",
+            "text": "mean my understanding from general"
+        },
+        {
+            "start": "1085.79",
+            "dur": "3.84",
+            "text": "Hayden and public comments is that"
+        },
+        {
+            "start": "1087.74",
+            "dur": "4.65",
+            "text": "that's a pretty quick timeframe between"
+        },
+        {
+            "start": "1089.63",
+            "dur": "4.44",
+            "text": "the command I'll tell you what mattis"
+        },
+        {
+            "start": "1092.39",
+            "dur": "4.11",
+            "text": "would defy an order yeah I think you"
+        },
+        {
+            "start": "1094.07",
+            "dur": "4.26",
+            "text": "would don't forget the people Wow yeah"
+        },
+        {
+            "start": "1096.5",
+            "dur": "4.08",
+            "text": "he'd say I'm not going I'm not doing it"
+        },
+        {
+            "start": "1098.33",
+            "dur": "3.81",
+            "text": "okay so this is it this is a narrative"
+        },
+        {
+            "start": "1100.58",
+            "dur": "2.94",
+            "text": "the media is creating the Trump is a"
+        },
+        {
+            "start": "1102.14",
+            "dur": "2.64",
+            "text": "nutcase and he's going to order a"
+        },
+        {
+            "start": "1103.52",
+            "dur": "3.21",
+            "text": "nuclear launch for no apparent reason"
+        },
+        {
+            "start": "1104.78",
+            "dur": "3.99",
+            "text": "again I've seen no evidence of this on"
+        },
+        {
+            "start": "1106.73",
+            "dur": "3.42",
+            "text": "the on the international scale from from"
+        },
+        {
+            "start": "1108.77",
+            "dur": "3.18",
+            "text": "president Trump the sort of precipitous"
+        },
+        {
+            "start": "1110.15",
+            "dur": "3.54",
+            "text": "action even on domestic policy Trump"
+        },
+        {
+            "start": "1111.95",
+            "dur": "3.21",
+            "text": "will fire off a tweet but the actions"
+        },
+        {
+            "start": "1113.69",
+            "dur": "2.97",
+            "text": "that he's taking are really not"
+        },
+        {
+            "start": "1115.16",
+            "dur": "2.88",
+            "text": "particularly precipitous the only"
+        },
+        {
+            "start": "1116.66",
+            "dur": "3.09",
+            "text": "precipitous action that you can say the"
+        },
+        {
+            "start": "1118.04",
+            "dur": "4.41",
+            "text": "Trump has really taken was his"
+        },
+        {
+            "start": "1119.75",
+            "dur": "3.9",
+            "text": "transgender been in the military tweets"
+        },
+        {
+            "start": "1122.45",
+            "dur": "2.43",
+            "text": "and even those are not being implemented"
+        },
+        {
+            "start": "1123.65",
+            "dur": "3.63",
+            "text": "by the Pentagon because there was no"
+        },
+        {
+            "start": "1124.88",
+            "dur": "4.17",
+            "text": "follow-up so you know the business of"
+        },
+        {
+            "start": "1127.28",
+            "dur": "3.66",
+            "text": "American government does not work quite"
+        },
+        {
+            "start": "1129.05",
+            "dur": "4.32",
+            "text": "as smoothly as people think now there's"
+        },
+        {
+            "start": "1130.94",
+            "dur": "4.08",
+            "text": "this sort of old Cold War mentality that"
+        },
+        {
+            "start": "1133.37",
+            "dur": "3.3",
+            "text": "were five seconds away from launching"
+        },
+        {
+            "start": "1135.02",
+            "dur": "3.48",
+            "text": "nuclear war I don't think that's right"
+        },
+        {
+            "start": "1136.67",
+            "dur": "3.63",
+            "text": "and I do think the media are attempting"
+        },
+        {
+            "start": "1138.5",
+            "dur": "3.27",
+            "text": "to twist you into not make you feel"
+        },
+        {
+            "start": "1140.3",
+            "dur": "2.73",
+            "text": "really uncomfortable make you feel like"
+        },
+        {
+            "start": "1141.77",
+            "dur": "3.27",
+            "text": "we're a second away from being"
+        },
+        {
+            "start": "1143.03",
+            "dur": "3.18",
+            "text": "obliterated you know we also don't know"
+        },
+        {
+            "start": "1145.04",
+            "dur": "2.85",
+            "text": "what nuclear we all we also know"
+        },
+        {
+            "start": "1146.21",
+            "dur": "2.82",
+            "text": "military options are on the table I mean"
+        },
+        {
+            "start": "1147.89",
+            "dur": "3.12",
+            "text": "we don't I've been saying this now for"
+        },
+        {
+            "start": "1149.03",
+            "dur": "3.6",
+            "text": "weeks okay I don't know as much as the"
+        },
+        {
+            "start": "1151.01",
+            "dur": "2.91",
+            "text": "Department of Defense knows about what"
+        },
+        {
+            "start": "1152.63",
+            "dur": "3.87",
+            "text": "military options are on the table to"
+        },
+        {
+            "start": "1153.92",
+            "dur": "3.69",
+            "text": "take out the Kim regime but I promise"
+        },
+        {
+            "start": "1156.5",
+            "dur": "2.7",
+            "text": "you that the last thing that anyone"
+        },
+        {
+            "start": "1157.61",
+            "dur": "3.3",
+            "text": "wants including President Trump is a"
+        },
+        {
+            "start": "1159.2",
+            "dur": "3.39",
+            "text": "nuclear exchange as President Trump said"
+        },
+        {
+            "start": "1160.91",
+            "dur": "3.99",
+            "text": "during the campaign there's nothing like"
+        },
+        {
+            "start": "1162.59",
+            "dur": "5.07",
+            "text": "nuclear nothing like it it's just the"
+        },
+        {
+            "start": "1164.9",
+            "dur": "3.78",
+            "text": "biggest and the hugest you remember when"
+        },
+        {
+            "start": "1167.66",
+            "dur": "3.51",
+            "text": "he actually said that during a debate"
+        },
+        {
+            "start": "1168.68",
+            "dur": "4.98",
+            "text": "which is pretty incredible so now all of"
+        },
+        {
+            "start": "1171.17",
+            "dur": "4.32",
+            "text": "that said don't be deeply worried don't"
+        },
+        {
+            "start": "1173.66",
+            "dur": "3.09",
+            "text": "worry so much everything will be okay"
+        },
+        {
+            "start": "1175.49",
+            "dur": "2.58",
+            "text": "you know"
+        },
+        {
+            "start": "1176.75",
+            "dur": "2.88",
+            "text": "worried in the sense that we should come"
+        },
+        {
+            "start": "1178.07",
+            "dur": "2.88",
+            "text": "up with solution to North Korea but"
+        },
+        {
+            "start": "1179.63",
+            "dur": "2.67",
+            "text": "don't worry that we're five seconds away"
+        },
+        {
+            "start": "1180.95",
+            "dur": "2.97",
+            "text": "from a nuclear exchange we're not okay"
+        },
+        {
+            "start": "1182.3",
+            "dur": "3.21",
+            "text": "so before I go any further I want to"
+        },
+        {
+            "start": "1183.92",
+            "dur": "3.33",
+            "text": "talk about Trump's conflicts with Mitch"
+        },
+        {
+            "start": "1185.51",
+            "dur": "3.12",
+            "text": "McConnell I also really want to get to"
+        },
+        {
+            "start": "1187.25",
+            "dur": "2.55",
+            "text": "some things I like things I hate and the"
+        },
+        {
+            "start": "1188.63",
+            "dur": "2.28",
+            "text": "big idea today I really want to get to"
+        },
+        {
+            "start": "1189.8",
+            "dur": "3.18",
+            "text": "the big idea because I think there's"
+        },
+        {
+            "start": "1190.91",
+            "dur": "3.48",
+            "text": "some important stuff here well there is"
+        },
+        {
+            "start": "1192.98",
+            "dur": "2.82",
+            "text": "a bit of a conflict breaking out now"
+        },
+        {
+            "start": "1194.39",
+            "dur": "3.06",
+            "text": "between President Trump and Mitch"
+        },
+        {
+            "start": "1195.8",
+            "dur": "3.42",
+            "text": "McConnell and that's not because Trump"
+        },
+        {
+            "start": "1197.45",
+            "dur": "3.87",
+            "text": "and McConnell disagree on policy as much"
+        },
+        {
+            "start": "1199.22",
+            "dur": "4.92",
+            "text": "as it is because Trump doesn't like when"
+        },
+        {
+            "start": "1201.32",
+            "dur": "4.56",
+            "text": "people insult him and this is my biggest"
+        },
+        {
+            "start": "1204.14",
+            "dur": "3.18",
+            "text": "problem with Trump attacking McConnell"
+        },
+        {
+            "start": "1205.88",
+            "dur": "2.82",
+            "text": "if you want to attack McConnell on"
+        },
+        {
+            "start": "1207.32",
+            "dur": "2.76",
+            "text": "policy I'm totally fine with that"
+        },
+        {
+            "start": "1208.7",
+            "dur": "3.24",
+            "text": "McConnell has not been an effective"
+        },
+        {
+            "start": "1210.08",
+            "dur": "3.72",
+            "text": "Senate Majority Leader thus far clearly"
+        },
+        {
+            "start": "1211.94",
+            "dur": "3.63",
+            "text": "if you're just attacking McConnell"
+        },
+        {
+            "start": "1213.8",
+            "dur": "2.19",
+            "text": "because you're mad at him then that's a"
+        },
+        {
+            "start": "1215.57",
+            "dur": "2.25",
+            "text": "whole"
+        },
+        {
+            "start": "1215.99",
+            "dur": "3.3",
+            "text": "different story you know it seems that"
+        },
+        {
+            "start": "1217.82",
+            "dur": "3.15",
+            "text": "he's attacking mcconnell cuz he's mad at"
+        },
+        {
+            "start": "1219.29",
+            "dur": "3.389",
+            "text": "him not on policy if you're really mad"
+        },
+        {
+            "start": "1220.97",
+            "dur": "3.78",
+            "text": "at mcconnell on policy he wouldn't be"
+        },
+        {
+            "start": "1222.679",
+            "dur": "3.541",
+            "text": "backing Luther strange in Alabama who's"
+        },
+        {
+            "start": "1224.75",
+            "dur": "3.45",
+            "text": "sort of a moderate Republican who backs"
+        },
+        {
+            "start": "1226.22",
+            "dur": "3.87",
+            "text": "McConnell's play over a couple of other"
+        },
+        {
+            "start": "1228.2",
+            "dur": "3.6",
+            "text": "candidates like Roy Moore in Alabama so"
+        },
+        {
+            "start": "1230.09",
+            "dur": "3.24",
+            "text": "what this really says to me is that"
+        },
+        {
+            "start": "1231.8",
+            "dur": "3.24",
+            "text": "Trump is still being driven by personal"
+        },
+        {
+            "start": "1233.33",
+            "dur": "3.57",
+            "text": "animus for particular political figures"
+        },
+        {
+            "start": "1235.04",
+            "dur": "3.6",
+            "text": "not being driven by policy"
+        },
+        {
+            "start": "1236.9",
+            "dur": "3.06",
+            "text": "considerations which is a problem right"
+        },
+        {
+            "start": "1238.64",
+            "dur": "2.669",
+            "text": "I want to see the policy I don't care"
+        },
+        {
+            "start": "1239.96",
+            "dur": "2.82",
+            "text": "about the personal animus I don't get"
+        },
+        {
+            "start": "1241.309",
+            "dur": "2.971",
+            "text": "about Trump's personal issues I don't"
+        },
+        {
+            "start": "1242.78",
+            "dur": "2.79",
+            "text": "either Trump likes McConnell that makes"
+        },
+        {
+            "start": "1244.28",
+            "dur": "2.52",
+            "text": "no difference to me it makes a"
+        },
+        {
+            "start": "1245.57",
+            "dur": "3.51",
+            "text": "difference to me whether we get the"
+        },
+        {
+            "start": "1246.8",
+            "dur": "3.509",
+            "text": "policies that I would like to see and"
+        },
+        {
+            "start": "1249.08",
+            "dur": "2.849",
+            "text": "that's what should make a difference to"
+        },
+        {
+            "start": "1250.309",
+            "dur": "2.971",
+            "text": "you you shouldn't be upset if Trump is"
+        },
+        {
+            "start": "1251.929",
+            "dur": "3.421",
+            "text": "mad at McConnell and McConnell's upset"
+        },
+        {
+            "start": "1253.28",
+            "dur": "3.6",
+            "text": "of Trump who cares in the soap opera you"
+        },
+        {
+            "start": "1255.35",
+            "dur": "2.91",
+            "text": "should be much more upset if you're not"
+        },
+        {
+            "start": "1256.88",
+            "dur": "1.86",
+            "text": "getting the policies that were promised"
+        },
+        {
+            "start": "1258.26",
+            "dur": "2.52",
+            "text": "to you"
+        },
+        {
+            "start": "1258.74",
+            "dur": "4.04",
+            "text": "so Trump was ripping McConnell on"
+        },
+        {
+            "start": "1260.78",
+            "dur": "4.62",
+            "text": "Twitter it all started because McConnell"
+        },
+        {
+            "start": "1262.78",
+            "dur": "5.08",
+            "text": "stated on at some Rotary Club meeting"
+        },
+        {
+            "start": "1265.4",
+            "dur": "6.09",
+            "text": "that Trump had excessive expectations of"
+        },
+        {
+            "start": "1267.86",
+            "dur": "8.04",
+            "text": "what the Senate could do storyline is"
+        },
+        {
+            "start": "1271.49",
+            "dur": "6.66",
+            "text": "that we have a dominant is because in"
+        },
+        {
+            "start": "1275.9",
+            "dur": "5.46",
+            "text": "part the President and others have said"
+        },
+        {
+            "start": "1278.15",
+            "dur": "6.18",
+            "text": "these early kind of lies about things"
+        },
+        {
+            "start": "1281.36",
+            "dur": "4.65",
+            "text": "need to be done by a certain point our"
+        },
+        {
+            "start": "1284.33",
+            "dur": "7.46",
+            "text": "new president of course I've been in a"
+        },
+        {
+            "start": "1286.01",
+            "dur": "8.25",
+            "text": "lot of work before and I think had"
+        },
+        {
+            "start": "1291.79",
+            "dur": "5.8",
+            "text": "excessive expectations about how quickly"
+        },
+        {
+            "start": "1294.26",
+            "dur": "7.53",
+            "text": "things happened in the democratic"
+        },
+        {
+            "start": "1297.59",
+            "dur": "5.75",
+            "text": "process and so part of the reason I"
+        },
+        {
+            "start": "1301.79",
+            "dur": "6.03",
+            "text": "think people feel like we're honor"
+        },
+        {
+            "start": "1303.34",
+            "dur": "7.6",
+            "text": "underperforming is because too many kind"
+        },
+        {
+            "start": "1307.82",
+            "dur": "6.23",
+            "text": "of artificial deadlines on unrelated to"
+        },
+        {
+            "start": "1310.94",
+            "dur": "5.869",
+            "text": "the reality of the complexity of"
+        },
+        {
+            "start": "1314.05",
+            "dur": "5.44",
+            "text": "legislating may not have been fully"
+        },
+        {
+            "start": "1316.809",
+            "dur": "5.111",
+            "text": "understood and of course our political"
+        },
+        {
+            "start": "1319.49",
+            "dur": "4.92",
+            "text": "adversaries if he loves one thing he"
+        },
+        {
+            "start": "1321.92",
+            "dur": "3.9",
+            "text": "done okay so McConnell is not totally"
+        },
+        {
+            "start": "1324.41",
+            "dur": "2.85",
+            "text": "wrong on this and the fact is the"
+        },
+        {
+            "start": "1325.82",
+            "dur": "3.3",
+            "text": "President Trump doesn't understand how"
+        },
+        {
+            "start": "1327.26",
+            "dur": "3.84",
+            "text": "the vagaries of the Senate work and so"
+        },
+        {
+            "start": "1329.12",
+            "dur": "3.12",
+            "text": "he's upset with it Trump but if the"
+        },
+        {
+            "start": "1331.1",
+            "dur": "2.4",
+            "text": "Trump is right when he says this to"
+        },
+        {
+            "start": "1332.24",
+            "dur": "3.75",
+            "text": "McConnell so he retweets back in"
+        },
+        {
+            "start": "1333.5",
+            "dur": "3.87",
+            "text": "McConnell any tweets that he tweeted"
+        },
+        {
+            "start": "1335.99",
+            "dur": "3.24",
+            "text": "senator Mitch McConnell said I had"
+        },
+        {
+            "start": "1337.37",
+            "dur": "3.48",
+            "text": "excessive expectations but I don't think"
+        },
+        {
+            "start": "1339.23",
+            "dur": "4.38",
+            "text": "so after seven years of hearing repeal"
+        },
+        {
+            "start": "1340.85",
+            "dur": "4.62",
+            "text": "and replace why not done fair question"
+        },
+        {
+            "start": "1343.61",
+            "dur": "3.48",
+            "text": "Trump should ask himself that because he"
+        },
+        {
+            "start": "1345.47",
+            "dur": "3.27",
+            "text": "wasn't particularly active as we pointed"
+        },
+        {
+            "start": "1347.09",
+            "dur": "2.76",
+            "text": "out at the time in pushing the thing"
+        },
+        {
+            "start": "1348.74",
+            "dur": "3.12",
+            "text": "beyond the last couple of weeks"
+        },
+        {
+            "start": "1349.85",
+            "dur": "3.99",
+            "text": "and didn't understand the policy but you"
+        },
+        {
+            "start": "1351.86",
+            "dur": "3.9",
+            "text": "know that's not a wrong to man I would"
+        },
+        {
+            "start": "1353.84",
+            "dur": "3.42",
+            "text": "hope that from personal animus for Mitch"
+        },
+        {
+            "start": "1355.76",
+            "dur": "3.21",
+            "text": "McConnell turns into him actually"
+        },
+        {
+            "start": "1357.26",
+            "dur": "3.3",
+            "text": "demanding policies that I like from"
+        },
+        {
+            "start": "1358.97",
+            "dur": "2.91",
+            "text": "Mitch McConnell and McConnell caving"
+        },
+        {
+            "start": "1360.56",
+            "dur": "3.39",
+            "text": "that's what I would like to see but it's"
+        },
+        {
+            "start": "1361.88",
+            "dur": "3.81",
+            "text": "even Laura Ingraham is noting it's hard"
+        },
+        {
+            "start": "1363.95",
+            "dur": "3.21",
+            "text": "for Trump to be ripping McConnell at the"
+        },
+        {
+            "start": "1365.69",
+            "dur": "3.17",
+            "text": "same time he's providing McConnell with"
+        },
+        {
+            "start": "1367.16",
+            "dur": "4.76",
+            "text": "more senators who agree with McConnell"
+        },
+        {
+            "start": "1368.86",
+            "dur": "7.15",
+            "text": "president Trump came out and endorsed"
+        },
+        {
+            "start": "1371.92",
+            "dur": "5.98",
+            "text": "Luther strange and that Alabama special"
+        },
+        {
+            "start": "1376.01",
+            "dur": "4.05",
+            "text": "election for Jeff session for Jeff"
+        },
+        {
+            "start": "1377.9",
+            "dur": "4.77",
+            "text": "Sessions seat now Luther strange was"
+        },
+        {
+            "start": "1380.06",
+            "dur": "4.23",
+            "text": "appointed so he's the incumbent for the"
+        },
+        {
+            "start": "1382.67",
+            "dur": "5.09",
+            "text": "time being there's all these other"
+        },
+        {
+            "start": "1384.29",
+            "dur": "6.87",
+            "text": "people running including mo Brooks and"
+        },
+        {
+            "start": "1387.76",
+            "dur": "4.24",
+            "text": "the judge Roy Moore is running and so"
+        },
+        {
+            "start": "1391.16",
+            "dur": "2.13",
+            "text": "they're probably gonna have to have a"
+        },
+        {
+            "start": "1392",
+            "dur": "3.15",
+            "text": "runoff because no one will get a"
+        },
+        {
+            "start": "1393.29",
+            "dur": "3.36",
+            "text": "majority but Donald Trump came out and"
+        },
+        {
+            "start": "1395.15",
+            "dur": "4.71",
+            "text": "endorsed the incumbent more of an"
+        },
+        {
+            "start": "1396.65",
+            "dur": "4.38",
+            "text": "establishment a guy Luther strange and"
+        },
+        {
+            "start": "1399.86",
+            "dur": "3.72",
+            "text": "that is very interesting because that's"
+        },
+        {
+            "start": "1401.03",
+            "dur": "4.08",
+            "text": "Mitch McConnell's favorite pick right so"
+        },
+        {
+            "start": "1403.58",
+            "dur": "3.42",
+            "text": "mobile is acknowledging this this is"
+        },
+        {
+            "start": "1405.11",
+            "dur": "3.27",
+            "text": "obviously true so if Trump is going to"
+        },
+        {
+            "start": "1407",
+            "dur": "3.42",
+            "text": "go after members of the Republican Party"
+        },
+        {
+            "start": "1408.38",
+            "dur": "3.36",
+            "text": "let's do it on the basis of policy what"
+        },
+        {
+            "start": "1410.42",
+            "dur": "2.49",
+            "text": "I don't want and what I sort of see"
+        },
+        {
+            "start": "1411.74",
+            "dur": "2.91",
+            "text": "happening which is which is not"
+        },
+        {
+            "start": "1412.91",
+            "dur": "3.18",
+            "text": "particularly encouraging to me is that"
+        },
+        {
+            "start": "1414.65",
+            "dur": "2.91",
+            "text": "President Trump is mad at leaders of the"
+        },
+        {
+            "start": "1416.09",
+            "dur": "3.42",
+            "text": "Republican Party and you could easily"
+        },
+        {
+            "start": "1417.56",
+            "dur": "3.78",
+            "text": "see Chuck Schumer making an overture to"
+        },
+        {
+            "start": "1419.51",
+            "dur": "3.51",
+            "text": "him after the 2018 election and from"
+        },
+        {
+            "start": "1421.34",
+            "dur": "3.33",
+            "text": "swivelling left in order to work with"
+        },
+        {
+            "start": "1423.02",
+            "dur": "3.27",
+            "text": "people who are praising him more Folsom"
+        },
+        {
+            "start": "1424.67",
+            "dur": "3.45",
+            "text": "Lee and gaining praise from the New York"
+        },
+        {
+            "start": "1426.29",
+            "dur": "4.02",
+            "text": "Times in the process that's the scary"
+        },
+        {
+            "start": "1428.12",
+            "dur": "3.63",
+            "text": "part of all of this in terms of policy"
+        },
+        {
+            "start": "1430.31",
+            "dur": "2.52",
+            "text": "okay I want to get two things I like in"
+        },
+        {
+            "start": "1431.75",
+            "dur": "2.49",
+            "text": "things I hate in the big idea but before"
+        },
+        {
+            "start": "1432.83",
+            "dur": "2.88",
+            "text": "we do all that you're going to have to"
+        },
+        {
+            "start": "1434.24",
+            "dur": "3.75",
+            "text": "go over to Daley wire calm and subscribe"
+        },
+        {
+            "start": "1435.71",
+            "dur": "4.68",
+            "text": "we bring you the greatest of content ok"
+        },
+        {
+            "start": "1437.99",
+            "dur": "4.35",
+            "text": "$9.99 a month means that not only you"
+        },
+        {
+            "start": "1440.39",
+            "dur": "3.72",
+            "text": "get to see this most watch to mode this"
+        },
+        {
+            "start": "1442.34",
+            "dur": "3.75",
+            "text": "most listened to news and politics"
+        },
+        {
+            "start": "1444.11",
+            "dur": "3.27",
+            "text": "podcast in the country according to"
+        },
+        {
+            "start": "1446.09",
+            "dur": "2.76",
+            "text": "iTunes we're still number two to Oprah"
+        },
+        {
+            "start": "1447.38",
+            "dur": "3.6",
+            "text": "people we're still number two to Oprah"
+        },
+        {
+            "start": "1448.85",
+            "dur": "4.02",
+            "text": "Oprah the Linda asks you must be"
+        },
+        {
+            "start": "1450.98",
+            "dur": "3.63",
+            "text": "defeated so go and leave review and"
+        },
+        {
+            "start": "1452.87",
+            "dur": "3.24",
+            "text": "subscribe but not only do you get our"
+        },
+        {
+            "start": "1454.61",
+            "dur": "3.81",
+            "text": "show when you when you subscribe for"
+        },
+        {
+            "start": "1456.11",
+            "dur": "4.5",
+            "text": "$9.99 a month over at daily wire calm"
+        },
+        {
+            "start": "1458.42",
+            "dur": "3.48",
+            "text": "you also get andrew Clavin show which is"
+        },
+        {
+            "start": "1460.61",
+            "dur": "2.82",
+            "text": "searching up the iTunes charts you get"
+        },
+        {
+            "start": "1461.9",
+            "dur": "3.12",
+            "text": "Michael Knowles a show live you get the"
+        },
+        {
+            "start": "1463.43",
+            "dur": "3.03",
+            "text": "whole thing live I get to be part of"
+        },
+        {
+            "start": "1465.02",
+            "dur": "3.21",
+            "text": "their mail bag and you get part of my"
+        },
+        {
+            "start": "1466.46",
+            "dur": "3.09",
+            "text": "mailbag we're doing that tomorrow to get"
+        },
+        {
+            "start": "1468.23",
+            "dur": "2.76",
+            "text": "all of that ed if you get the annual"
+        },
+        {
+            "start": "1469.55",
+            "dur": "3.96",
+            "text": "subscription you get this the very"
+        },
+        {
+            "start": "1470.99",
+            "dur": "4.47",
+            "text": "finest of tumblers leftist tears hot or"
+        },
+        {
+            "start": "1473.51",
+            "dur": "4.02",
+            "text": "cold the tumbler incomparable"
+        },
+        {
+            "start": "1475.46",
+            "dur": "3.81",
+            "text": "indescribable until you hold it in your"
+        },
+        {
+            "start": "1477.53",
+            "dur": "3.45",
+            "text": "hands you will never be able to"
+        },
+        {
+            "start": "1479.27",
+            "dur": "3.71",
+            "text": "understand the glories of it and all it"
+        },
+        {
+            "start": "1480.98",
+            "dur": "3.05",
+            "text": "will cost you is $99 annual membership"
+        },
+        {
+            "start": "1482.98",
+            "dur": "3.27",
+            "text": "comes along with all the other great"
+        },
+        {
+            "start": "1484.03",
+            "dur": "3.3",
+            "text": "things I just told you about again if"
+        },
+        {
+            "start": "1486.25",
+            "dur": "2.46",
+            "text": "you just want to listen later go over to"
+        },
+        {
+            "start": "1487.33",
+            "dur": "3.12",
+            "text": "iTunes or SoundCloud leave us a review"
+        },
+        {
+            "start": "1488.71",
+            "dur": "3.54",
+            "text": "we definitely appreciate it"
+        },
+        {
+            "start": "1490.45",
+            "dur": "4.01",
+            "text": "we are the the top news and politics"
+        },
+        {
+            "start": "1492.25",
+            "dur": "4.93",
+            "text": "podcast in America"
+        },
+        {
+            "start": "1494.46",
+            "dur": "4.78",
+            "text": "[Music]"
+        },
+        {
+            "start": "1497.18",
+            "dur": "2.06",
+            "text": "you"
+        },
+        {
+            "start": "1501.49",
+            "dur": "4.05",
+            "text": "okay so let's do some things I like and"
+        },
+        {
+            "start": "1504.04",
+            "dur": "4.47",
+            "text": "some things I hate in the big idea so"
+        },
+        {
+            "start": "1505.54",
+            "dur": "5.13",
+            "text": "Thursday's are our big idea day here at"
+        },
+        {
+            "start": "1508.51",
+            "dur": "4.8",
+            "text": "the Ben Shapiro show so let's first"
+        },
+        {
+            "start": "1510.67",
+            "dur": "4.2",
+            "text": "start with things I like so you know"
+        },
+        {
+            "start": "1513.31",
+            "dur": "3.24",
+            "text": "we're talking about communism and I"
+        },
+        {
+            "start": "1514.87",
+            "dur": "3.06",
+            "text": "thought that would be worthwhile to"
+        },
+        {
+            "start": "1516.55",
+            "dur": "3.42",
+            "text": "recommend a book about North Korea in"
+        },
+        {
+            "start": "1517.93",
+            "dur": "3.72",
+            "text": "case you are interested in what North"
+        },
+        {
+            "start": "1519.97",
+            "dur": "3.45",
+            "text": "Korea is actually like today the book is"
+        },
+        {
+            "start": "1521.65",
+            "dur": "3.66",
+            "text": "by Andre lank often it's called the real"
+        },
+        {
+            "start": "1523.42",
+            "dur": "4.74",
+            "text": "North Korea life and politics in the"
+        },
+        {
+            "start": "1525.31",
+            "dur": "4.71",
+            "text": "failed Stalinist utopia and it's a"
+        },
+        {
+            "start": "1528.16",
+            "dur": "4.2",
+            "text": "fascinating book because it doesn't try"
+        },
+        {
+            "start": "1530.02",
+            "dur": "4.2",
+            "text": "to paint an excessively dark picture of"
+        },
+        {
+            "start": "1532.36",
+            "dur": "3.48",
+            "text": "North Korea while not ignoring the"
+        },
+        {
+            "start": "1534.22",
+            "dur": "3.27",
+            "text": "problems in North Korea basically it"
+        },
+        {
+            "start": "1535.84",
+            "dur": "4.74",
+            "text": "says that it is a stunted rump state"
+        },
+        {
+            "start": "1537.49",
+            "dur": "4.86",
+            "text": "that is run what it is run in the most"
+        },
+        {
+            "start": "1540.58",
+            "dur": "3.36",
+            "text": "horrific dictatorial way and that"
+        },
+        {
+            "start": "1542.35",
+            "dur": "3.15",
+            "text": "manifests more in the everyday lives of"
+        },
+        {
+            "start": "1543.94",
+            "dur": "3.36",
+            "text": "North Koreans then it even does in sort"
+        },
+        {
+            "start": "1545.5",
+            "dur": "3.93",
+            "text": "of our horror imaginations of gulags and"
+        },
+        {
+            "start": "1547.3",
+            "dur": "4.32",
+            "text": "people being shot and unmasked that's"
+        },
+        {
+            "start": "1549.43",
+            "dur": "4.56",
+            "text": "what's happening then just the the"
+        },
+        {
+            "start": "1551.62",
+            "dur": "4.98",
+            "text": "gradual degradation of a great people"
+        },
+        {
+            "start": "1553.99",
+            "dur": "4.92",
+            "text": "and the real North Korea on dry land"
+        },
+        {
+            "start": "1556.6",
+            "dur": "4.53",
+            "text": "cough fully worth reading I think a fair"
+        },
+        {
+            "start": "1558.91",
+            "dur": "5.07",
+            "text": "and honest relatively objective look at"
+        },
+        {
+            "start": "1561.13",
+            "dur": "5.7",
+            "text": "what North Korea is like today it is a"
+        },
+        {
+            "start": "1563.98",
+            "dur": "4.05",
+            "text": "stain on the on the global on the so"
+        },
+        {
+            "start": "1566.83",
+            "dur": "2.55",
+            "text": "called global community that doesn't"
+        },
+        {
+            "start": "1568.03",
+            "dur": "3.21",
+            "text": "really exist it's a stain on the UN"
+        },
+        {
+            "start": "1569.38",
+            "dur": "3.96",
+            "text": "certainly that North Korea has continued"
+        },
+        {
+            "start": "1571.24",
+            "dur": "3.51",
+            "text": "to terrorizes people for more than half"
+        },
+        {
+            "start": "1573.34",
+            "dur": "3.21",
+            "text": "a century at this point just as it"
+        },
+        {
+            "start": "1574.75",
+            "dur": "4.01",
+            "text": "sustained on the international community"
+        },
+        {
+            "start": "1576.55",
+            "dur": "5.22",
+            "text": "that Cuba continues to be a dictatorial"
+        },
+        {
+            "start": "1578.76",
+            "dur": "5.17",
+            "text": "backwater it's really it's really quite"
+        },
+        {
+            "start": "1581.77",
+            "dur": "3.9",
+            "text": "horrifying if there were a way to get"
+        },
+        {
+            "start": "1583.93",
+            "dur": "4.65",
+            "text": "rid of the Kim regime I'm all for it"
+        },
+        {
+            "start": "1585.67",
+            "dur": "5.49",
+            "text": "okay other things that I like so this"
+        },
+        {
+            "start": "1588.58",
+            "dur": "4.5",
+            "text": "exchange is making the rounds on the on"
+        },
+        {
+            "start": "1591.16",
+            "dur": "4.11",
+            "text": "the interwebs it is an amazing exchange"
+        },
+        {
+            "start": "1593.08",
+            "dur": "4.44",
+            "text": "James Franco the actor was talking with"
+        },
+        {
+            "start": "1595.27",
+            "dur": "3.78",
+            "text": "his Princeton professor and the issue of"
+        },
+        {
+            "start": "1597.52",
+            "dur": "3.93",
+            "text": "abortion came up now his Princeton"
+        },
+        {
+            "start": "1599.05",
+            "dur": "5.73",
+            "text": "professor her name is Elliot Michaelson"
+        },
+        {
+            "start": "1601.45",
+            "dur": "4.95",
+            "text": "and she is discussing her support for"
+        },
+        {
+            "start": "1604.78",
+            "dur": "3.18",
+            "text": "early stage abortion and why she"
+        },
+        {
+            "start": "1606.4",
+            "dur": "4.35",
+            "text": "believes nothing morally bad happens"
+        },
+        {
+            "start": "1607.96",
+            "dur": "3.84",
+            "text": "when it occurs and even James Franco"
+        },
+        {
+            "start": "1610.75",
+            "dur": "2.61",
+            "text": "scenes are going what you're saying"
+        },
+        {
+            "start": "1611.8",
+            "dur": "3.72",
+            "text": "makes no sense to me okay and James"
+        },
+        {
+            "start": "1613.36",
+            "dur": "3.69",
+            "text": "Franco I cannot imagine is pro-life but"
+        },
+        {
+            "start": "1615.52",
+            "dur": "3.42",
+            "text": "even he is looking at her and going this"
+        },
+        {
+            "start": "1617.05",
+            "dur": "4.02",
+            "text": "doesn't make sense what you are saying"
+        },
+        {
+            "start": "1618.94",
+            "dur": "3.42",
+            "text": "namely because what the left says with"
+        },
+        {
+            "start": "1621.07",
+            "dur": "3.09",
+            "text": "regard to abortion doesn't make a whole"
+        },
+        {
+            "start": "1622.36",
+            "dur": "4.02",
+            "text": "hell of a lot of moral sense here's a"
+        },
+        {
+            "start": "1624.16",
+            "dur": "5.13",
+            "text": "bit of the exchange in some of my work I"
+        },
+        {
+            "start": "1626.38",
+            "dur": "5.04",
+            "text": "defend a liberal position about early"
+        },
+        {
+            "start": "1629.29",
+            "dur": "4.81",
+            "text": "abortion so I defend the view that"
+        },
+        {
+            "start": "1631.42",
+            "dur": "4.72",
+            "text": "there's nothing morally bad about"
+        },
+        {
+            "start": "1634.1",
+            "dur": "3.87",
+            "text": "portion so a lot of people think well"
+        },
+        {
+            "start": "1636.14",
+            "dur": "3.48",
+            "text": "it's permissible to have an abortion but"
+        },
+        {
+            "start": "1637.97",
+            "dur": "5.819",
+            "text": "something bad happens when the fetus"
+        },
+        {
+            "start": "1639.62",
+            "dur": "5.82",
+            "text": "does and I think if the fetus hasn't"
+        },
+        {
+            "start": "1643.789",
+            "dur": "3.691",
+            "text": "ever been conscious but hasn't ever had"
+        },
+        {
+            "start": "1645.44",
+            "dur": "3.9",
+            "text": "any experiences and we aborted at that"
+        },
+        {
+            "start": "1647.48",
+            "dur": "5.16",
+            "text": "stage but actually nothing morally bad"
+        },
+        {
+            "start": "1649.34",
+            "dur": "5.73",
+            "text": "happens and this view might seem"
+        },
+        {
+            "start": "1652.64",
+            "dur": "5.279",
+            "text": "unattractive because it might seem that"
+        },
+        {
+            "start": "1655.07",
+            "dur": "5.13",
+            "text": "it's active old attitude towards all"
+        },
+        {
+            "start": "1657.919",
+            "dur": "5.88",
+            "text": "early fetuses but what I think is that"
+        },
+        {
+            "start": "1660.2",
+            "dur": "6.089",
+            "text": "actually among early fetuses there are"
+        },
+        {
+            "start": "1663.799",
+            "dur": "5.13",
+            "text": "two very different kinds of beings so"
+        },
+        {
+            "start": "1666.289",
+            "dur": "4.62",
+            "text": "James when you were in early fetus and"
+        },
+        {
+            "start": "1668.929",
+            "dur": "4.651",
+            "text": "Elliott Lee you were in early Peter all"
+        },
+        {
+            "start": "1670.909",
+            "dur": "5.76",
+            "text": "of us I think that we already did have"
+        },
+        {
+            "start": "1673.58",
+            "dur": "5.37",
+            "text": "moral status then but we had washed out"
+        },
+        {
+            "start": "1676.669",
+            "dur": "4.531",
+            "text": "us in virtue of our future in future of"
+        },
+        {
+            "start": "1678.95",
+            "dur": "5.04",
+            "text": "the fact that we were the beginning"
+        },
+        {
+            "start": "1681.2",
+            "dur": "5.52",
+            "text": "stages of Persons but some early fetuses"
+        },
+        {
+            "start": "1683.99",
+            "dur": "5.819",
+            "text": "will die in or early in pregnancy either"
+        },
+        {
+            "start": "1686.72",
+            "dur": "4.41",
+            "text": "due to abortion or miscarriage and in my"
+        },
+        {
+            "start": "1689.809",
+            "dur": "2.701",
+            "text": "view that's a very different kind of"
+        },
+        {
+            "start": "1691.13",
+            "dur": "3.929",
+            "text": "entity that's something that doesn't"
+        },
+        {
+            "start": "1692.51",
+            "dur": "5.46",
+            "text": "have a future as a person and it doesn't"
+        },
+        {
+            "start": "1695.059",
+            "dur": "4.771",
+            "text": "have moral status okay and james"
+        },
+        {
+            "start": "1697.97",
+            "dur": "4.29",
+            "text": "franco's can't you only judge that in"
+        },
+        {
+            "start": "1699.83",
+            "dur": "4.469",
+            "text": "hindsight when James Franco is wrecking"
+        },
+        {
+            "start": "1702.26",
+            "dur": "4.549",
+            "text": "you on abortion and your professor at"
+        },
+        {
+            "start": "1704.299",
+            "dur": "4.891",
+            "text": "Princeton you should lose your job okay"
+        },
+        {
+            "start": "1706.809",
+            "dur": "3.671",
+            "text": "like that is the worst argument in favor"
+        },
+        {
+            "start": "1709.19",
+            "dur": "3.21",
+            "text": "of early-stage abortion I've ever heard"
+        },
+        {
+            "start": "1710.48",
+            "dur": "3.48",
+            "text": "the less when they make the argument for"
+        },
+        {
+            "start": "1712.4",
+            "dur": "2.85",
+            "text": "early stage abortion what they say is"
+        },
+        {
+            "start": "1713.96",
+            "dur": "2.76",
+            "text": "that this is not a fully formed human"
+        },
+        {
+            "start": "1715.25",
+            "dur": "3.809",
+            "text": "life like that's actually an argument"
+        },
+        {
+            "start": "1716.72",
+            "dur": "4.11",
+            "text": "okay that it has not reached the stage"
+        },
+        {
+            "start": "1719.059",
+            "dur": "3.12",
+            "text": "of life at which we care it's not a good"
+        },
+        {
+            "start": "1720.83",
+            "dur": "2.7",
+            "text": "argument right now an argument I agree"
+        },
+        {
+            "start": "1722.179",
+            "dur": "3.421",
+            "text": "with because potential life is still"
+        },
+        {
+            "start": "1723.53",
+            "dur": "3.66",
+            "text": "potential life and no question as to"
+        },
+        {
+            "start": "1725.6",
+            "dur": "3.209",
+            "text": "what level of potential life is"
+        },
+        {
+            "start": "1727.19",
+            "dur": "3.3",
+            "text": "necessary in order for you not to be"
+        },
+        {
+            "start": "1728.809",
+            "dur": "3.781",
+            "text": "able to kill it that's that's a pretty"
+        },
+        {
+            "start": "1730.49",
+            "dur": "3.54",
+            "text": "dicey question morally because they're"
+        },
+        {
+            "start": "1732.59",
+            "dur": "3.089",
+            "text": "children who are born with disabilities"
+        },
+        {
+            "start": "1734.03",
+            "dur": "2.7",
+            "text": "you get to kill them because they don't"
+        },
+        {
+            "start": "1735.679",
+            "dur": "3.421",
+            "text": "have a lot of potential to grow into"
+        },
+        {
+            "start": "1736.73",
+            "dur": "4.829",
+            "text": "full human beings or fully functional"
+        },
+        {
+            "start": "1739.1",
+            "dur": "3.84",
+            "text": "human beings it's you know this is why"
+        },
+        {
+            "start": "1741.559",
+            "dur": "2.431",
+            "text": "the abortion argument doesn't work but"
+        },
+        {
+            "start": "1742.94",
+            "dur": "3",
+            "text": "the argument she's making is so"
+        },
+        {
+            "start": "1743.99",
+            "dur": "3.99",
+            "text": "nonsensical the James Franco absolutely"
+        },
+        {
+            "start": "1745.94",
+            "dur": "3.57",
+            "text": "wrecks are unconsciously like in without"
+        },
+        {
+            "start": "1747.98",
+            "dur": "2.699",
+            "text": "even thinking about he says if a woman"
+        },
+        {
+            "start": "1749.51",
+            "dur": "2.7",
+            "text": "decides to have an abortion with an"
+        },
+        {
+            "start": "1750.679",
+            "dur": "3.12",
+            "text": "early fetus just that actor that"
+        },
+        {
+            "start": "1752.21",
+            "dur": "2.88",
+            "text": "intention negates the moral statuses"
+        },
+        {
+            "start": "1753.799",
+            "dur": "2.401",
+            "text": "that early fetus just because if she"
+        },
+        {
+            "start": "1755.09",
+            "dur": "2.43",
+            "text": "goes out and has an abortion"
+        },
+        {
+            "start": "1756.2",
+            "dur": "3.93",
+            "text": "it's pretty certain it's not going to"
+        },
+        {
+            "start": "1757.52",
+            "dur": "4.409",
+            "text": "become a person and this professor just"
+        },
+        {
+            "start": "1760.13",
+            "dur": "3.6",
+            "text": "struggles and struggles and struggles"
+        },
+        {
+            "start": "1761.929",
+            "dur": "5.311",
+            "text": "and struggles as well she should again"
+        },
+        {
+            "start": "1763.73",
+            "dur": "3.96",
+            "text": "this lady this lady was a she's a member"
+        },
+        {
+            "start": "1767.24",
+            "dur": "3.57",
+            "text": "of"
+        },
+        {
+            "start": "1767.69",
+            "dur": "5.34",
+            "text": "of the shit's and philosophy a PhD in"
+        },
+        {
+            "start": "1770.81",
+            "dur": "3.75",
+            "text": "philosophy from MIT a bachelor's from"
+        },
+        {
+            "start": "1773.03",
+            "dur": "2.82",
+            "text": "Harvard her father was a member of the"
+        },
+        {
+            "start": "1774.56",
+            "dur": "3.45",
+            "text": "Princeton philosophy department faculty"
+        },
+        {
+            "start": "1775.85",
+            "dur": "4.95",
+            "text": "she's part of the Princeton philosophy"
+        },
+        {
+            "start": "1778.01",
+            "dur": "4.44",
+            "text": "department faculty and she teaches"
+        },
+        {
+            "start": "1780.8",
+            "dur": "3.9",
+            "text": "courses called designing like the ethics"
+        },
+        {
+            "start": "1782.45",
+            "dur": "4.23",
+            "text": "of creation and its control and morality"
+        },
+        {
+            "start": "1784.7",
+            "dur": "3.24",
+            "text": "in the face of moral ignorance ok this"
+        },
+        {
+            "start": "1786.68",
+            "dur": "2.46",
+            "text": "lady should not be able to teach a"
+        },
+        {
+            "start": "1787.94",
+            "dur": "3.18",
+            "text": "course called morality in the face of"
+        },
+        {
+            "start": "1789.14",
+            "dur": "4.26",
+            "text": "moral ignorance when James Franco again"
+        },
+        {
+            "start": "1791.12",
+            "dur": "4.08",
+            "text": "James Franco a guy who looks like he"
+        },
+        {
+            "start": "1793.4",
+            "dur": "3.27",
+            "text": "maybe has seven brain cells that he can"
+        },
+        {
+            "start": "1795.2",
+            "dur": "3.51",
+            "text": "rub together is wrecking her"
+        },
+        {
+            "start": "1796.67",
+            "dur": "3.6",
+            "text": "unconsciously on abortion like when even"
+        },
+        {
+            "start": "1798.71",
+            "dur": "3",
+            "text": "Jim's friend is like uh this doesn't"
+        },
+        {
+            "start": "1800.27",
+            "dur": "2.28",
+            "text": "make a lot of sense to me because it"
+        },
+        {
+            "start": "1801.71",
+            "dur": "4.08",
+            "text": "makes no sense"
+        },
+        {
+            "start": "1802.55",
+            "dur": "5.4",
+            "text": "Wow Wow so well done Princeton hiring"
+        },
+        {
+            "start": "1805.79",
+            "dur": "8.01",
+            "text": "only the bus okay time for a couple of"
+        },
+        {
+            "start": "1807.95",
+            "dur": "7.95",
+            "text": "things that I hate okay so the first"
+        },
+        {
+            "start": "1813.8",
+            "dur": "4.14",
+            "text": "thing that I hate Skip Bayless who is"
+        },
+        {
+            "start": "1815.9",
+            "dur": "4.95",
+            "text": "made of living saying inane things on"
+        },
+        {
+            "start": "1817.94",
+            "dur": "5.04",
+            "text": "sports channels for a long time he used"
+        },
+        {
+            "start": "1820.85",
+            "dur": "4.68",
+            "text": "to be on ESPN now he's on Fox Sports 1 I"
+        },
+        {
+            "start": "1822.98",
+            "dur": "3.72",
+            "text": "believe and and he says that Colin"
+        },
+        {
+            "start": "1825.53",
+            "dur": "2.22",
+            "text": "Kaepernick not getting a job is a"
+        },
+        {
+            "start": "1826.7",
+            "dur": "3.09",
+            "text": "full-on disgrace"
+        },
+        {
+            "start": "1827.75",
+            "dur": "4.38",
+            "text": "black players black players should"
+        },
+        {
+            "start": "1829.79",
+            "dur": "4.92",
+            "text": "boycott games in the NFL"
+        },
+        {
+            "start": "1832.13",
+            "dur": "5.19",
+            "text": "we have Colin Kaepernick a terrible"
+        },
+        {
+            "start": "1834.71",
+            "dur": "4.98",
+            "text": "quarterback does not get a job would you"
+        },
+        {
+            "start": "1837.32",
+            "dur": "4.14",
+            "text": "an easy cop-out that was easy talk about"
+        },
+        {
+            "start": "1839.69",
+            "dur": "3.87",
+            "text": "to say it's because of the flag and it's"
+        },
+        {
+            "start": "1841.46",
+            "dur": "3.96",
+            "text": "not because the subject that he is"
+        },
+        {
+            "start": "1843.56",
+            "dur": "3.24",
+            "text": "protesting makes you uncomfortable but"
+        },
+        {
+            "start": "1845.42",
+            "dur": "3.9",
+            "text": "you know what guess what they used to do"
+        },
+        {
+            "start": "1846.8",
+            "dur": "5.04",
+            "text": "skills the NFL used to charge the"
+        },
+        {
+            "start": "1849.32",
+            "dur": "4.95",
+            "text": "military to have the servicemen walk out"
+        },
+        {
+            "start": "1851.84",
+            "dur": "5.07",
+            "text": "on the Terrible it wasn't until they got"
+        },
+        {
+            "start": "1854.27",
+            "dur": "4.44",
+            "text": "the whistle guy got uncovered that they"
+        },
+        {
+            "start": "1856.91",
+            "dur": "2.67",
+            "text": "were charging that they gave the money"
+        },
+        {
+            "start": "1858.71",
+            "dur": "2.79",
+            "text": "back"
+        },
+        {
+            "start": "1859.58",
+            "dur": "3.66",
+            "text": "no they really love the military but if"
+        },
+        {
+            "start": "1861.5",
+            "dur": "5.43",
+            "text": "you and what I feel say one last thing"
+        },
+        {
+            "start": "1863.24",
+            "dur": "5.91",
+            "text": "if the black players would unite and say"
+        },
+        {
+            "start": "1866.93",
+            "dur": "5.43",
+            "text": "we will not play game one this year I"
+        },
+        {
+            "start": "1869.15",
+            "dur": "5.76",
+            "text": "promise you it would have impact you get"
+        },
+        {
+            "start": "1872.36",
+            "dur": "4.71",
+            "text": "so and run for something else give one"
+        },
+        {
+            "start": "1874.91",
+            "dur": "4.05",
+            "text": "earth honor of character earth"
+        },
+        {
+            "start": "1877.07",
+            "dur": "3.99",
+            "text": "shattering just earth chatter will be"
+        },
+        {
+            "start": "1878.96",
+            "dur": "6.06",
+            "text": "unbelievable it'll be huge it'll be"
+        },
+        {
+            "start": "1881.06",
+            "dur": "6.3",
+            "text": "incredible back there no ok no that's"
+        },
+        {
+            "start": "1885.02",
+            "dur": "4.53",
+            "text": "not correct ok the fact is all that will"
+        },
+        {
+            "start": "1887.36",
+            "dur": "3.84",
+            "text": "happen is that people will stop actually"
+        },
+        {
+            "start": "1889.55",
+            "dur": "3.24",
+            "text": "going to games because people will"
+        },
+        {
+            "start": "1891.2",
+            "dur": "3.95",
+            "text": "assume that we are now going to use the"
+        },
+        {
+            "start": "1892.79",
+            "dur": "5.1",
+            "text": "NFL as a cram down for leftist politics"
+        },
+        {
+            "start": "1895.15",
+            "dur": "4.72",
+            "text": "viewership dropped relatively"
+        },
+        {
+            "start": "1897.89",
+            "dur": "3.3",
+            "text": "dramatically last year thanks in large"
+        },
+        {
+            "start": "1899.87",
+            "dur": "2.58",
+            "text": "part to"
+        },
+        {
+            "start": "1901.19",
+            "dur": "3.57",
+            "text": "colin kaepernick and other players"
+        },
+        {
+            "start": "1902.45",
+            "dur": "3.57",
+            "text": "protesting the national anthem you do"
+        },
+        {
+            "start": "1904.76",
+            "dur": "2.94",
+            "text": "this for colin kaepernick and you"
+        },
+        {
+            "start": "1906.02",
+            "dur": "3.18",
+            "text": "reinvigorate this particular debate I"
+        },
+        {
+            "start": "1907.7",
+            "dur": "2.91",
+            "text": "promise you the NFL is going to lose"
+        },
+        {
+            "start": "1909.2",
+            "dur": "3.09",
+            "text": "ratings as well it should because when I"
+        },
+        {
+            "start": "1910.61",
+            "dur": "3.54",
+            "text": "watch sports I don't want to hear about"
+        },
+        {
+            "start": "1912.29",
+            "dur": "3.63",
+            "text": "how America is racist and sexist and"
+        },
+        {
+            "start": "1914.15",
+            "dur": "4.23",
+            "text": "bigoted and homophobic I just want to"
+        },
+        {
+            "start": "1915.92",
+            "dur": "3.87",
+            "text": "watch sports particularly when a lot of"
+        },
+        {
+            "start": "1918.38",
+            "dur": "4.23",
+            "text": "the best players in the sport are black"
+        },
+        {
+            "start": "1919.79",
+            "dur": "6.15",
+            "text": "I mean just enough is enough but there"
+        },
+        {
+            "start": "1922.61",
+            "dur": "5.16",
+            "text": "is a leftist pander pandering element"
+        },
+        {
+            "start": "1925.94",
+            "dur": "3.03",
+            "text": "that is really going over the top okay"
+        },
+        {
+            "start": "1927.77",
+            "dur": "2.67",
+            "text": "other things that I hate to Bernie"
+        },
+        {
+            "start": "1928.97",
+            "dur": "2.97",
+            "text": "Sanders kind of commercial and this just"
+        },
+        {
+            "start": "1930.44",
+            "dur": "3.48",
+            "text": "demonstrates how far left the the left"
+        },
+        {
+            "start": "1931.94",
+            "dur": "3.92",
+            "text": "of the left wing is moved Bernie Sanders"
+        },
+        {
+            "start": "1933.92",
+            "dur": "5.4",
+            "text": "cut a commercial about Medicare for all"
+        },
+        {
+            "start": "1935.86",
+            "dur": "5.5",
+            "text": "look who he is using as a sort of moral"
+        },
+        {
+            "start": "1939.32",
+            "dur": "10.02",
+            "text": "guideposts in discussing Medicare for"
+        },
+        {
+            "start": "1941.36",
+            "dur": "10.47",
+            "text": "all three the only one leaving having"
+        },
+        {
+            "start": "1949.34",
+            "dur": "4.8",
+            "text": "any people single payer insurance"
+        },
+        {
+            "start": "1951.83",
+            "dur": "5.04",
+            "text": "Medicare for all the time the Canadians"
+        },
+        {
+            "start": "1954.14",
+            "dur": "4.92",
+            "text": "have become the more civilized democracy"
+        },
+        {
+            "start": "1956.87",
+            "dur": "4.77",
+            "text": "on the planet has I would make sure that"
+        },
+        {
+            "start": "1959.06",
+            "dur": "5.4",
+            "text": "employers general response if it out"
+        },
+        {
+            "start": "1961.64",
+            "dur": "4.8",
+            "text": "there what that would do is free people"
+        },
+        {
+            "start": "1964.46",
+            "dur": "4.05",
+            "text": "up to have more mobility in terms of"
+        },
+        {
+            "start": "1966.44",
+            "dur": "3.66",
+            "text": "changing jobs in terms of not worrying"
+        },
+        {
+            "start": "1968.51",
+            "dur": "3.57",
+            "text": "about Milnes putting them into"
+        },
+        {
+            "start": "1970.1",
+            "dur": "4.14",
+            "text": "bankruptcy and all those types of"
+        },
+        {
+            "start": "1972.08",
+            "dur": "4.35",
+            "text": "situations that we're in now and the"
+        },
+        {
+            "start": "1974.24",
+            "dur": "4.59",
+            "text": "only way to do that is through a"
+        },
+        {
+            "start": "1976.43",
+            "dur": "4.65",
+            "text": "single-payer principle congratulate"
+        },
+        {
+            "start": "1978.83",
+            "dur": "5.16",
+            "text": "thank you I want to see is an election"
+        },
+        {
+            "start": "1981.08",
+            "dur": "5.01",
+            "text": "year in Banaras USS a lot zingaran"
+        },
+        {
+            "start": "1983.99",
+            "dur": "3.87",
+            "text": "Arcade Fire here taking care of people"
+        },
+        {
+            "start": "1986.09",
+            "dur": "4.05",
+            "text": "so we're talking about celebrity stuff"
+        },
+        {
+            "start": "1987.86",
+            "dur": "4.56",
+            "text": "not politics congratulations on your MVP"
+        },
+        {
+            "start": "1990.14",
+            "dur": "3.69",
+            "text": "are we now at the point where the"
+        },
+        {
+            "start": "1992.42",
+            "dur": "3.09",
+            "text": "country does need to think about some"
+        },
+        {
+            "start": "1993.83",
+            "dur": "3.63",
+            "text": "sort of single-payer system with my"
+        },
+        {
+            "start": "1995.51",
+            "dur": "4.74",
+            "text": "limited knowledge Warren Buffett okay so"
+        },
+        {
+            "start": "1997.46",
+            "dur": "4.77",
+            "text": "it's like this group of deplorable"
+        },
+        {
+            "start": "2000.25",
+            "dur": "3.21",
+            "text": "who have decided that single-payer is"
+        },
+        {
+            "start": "2002.23",
+            "dur": "3.18",
+            "text": "just grand and great"
+        },
+        {
+            "start": "2003.46",
+            "dur": "3.12",
+            "text": "do any of these people actually use"
+        },
+        {
+            "start": "2005.41",
+            "dur": "2.31",
+            "text": "single-payer of course not"
+        },
+        {
+            "start": "2006.58",
+            "dur": "3.21",
+            "text": "all of these people are extraordinarily"
+        },
+        {
+            "start": "2007.72",
+            "dur": "4.14",
+            "text": "wealthy all of them pay for their own"
+        },
+        {
+            "start": "2009.79",
+            "dur": "3.9",
+            "text": "insurance all of them have top-notch"
+        },
+        {
+            "start": "2011.86",
+            "dur": "3.63",
+            "text": "insurance a single-payer health care"
+        },
+        {
+            "start": "2013.69",
+            "dur": "2.58",
+            "text": "this idea Medicare for all okay there"
+        },
+        {
+            "start": "2015.49",
+            "dur": "3.12",
+            "text": "have been studies that have been done"
+        },
+        {
+            "start": "2016.27",
+            "dur": "4.59",
+            "text": "that show that on 16 out of 40 health"
+        },
+        {
+            "start": "2018.61",
+            "dur": "3.84",
+            "text": "measurement Medicare provides less than"
+        },
+        {
+            "start": "2020.86",
+            "dur": "4.26",
+            "text": "two-thirds of the people on Medicare"
+        },
+        {
+            "start": "2022.45",
+            "dur": "4.89",
+            "text": "with satisfactory results on 16 out of"
+        },
+        {
+            "start": "2025.12",
+            "dur": "3.84",
+            "text": "40 measures Medicare is wildly expensive"
+        },
+        {
+            "start": "2027.34",
+            "dur": "2.61",
+            "text": "it has blown out the budget of the"
+        },
+        {
+            "start": "2028.96",
+            "dur": "2.28",
+            "text": "federal government's for tremendous"
+        },
+        {
+            "start": "2029.95",
+            "dur": "3.63",
+            "text": "extent is going to continue to blow out"
+        },
+        {
+            "start": "2031.24",
+            "dur": "3.84",
+            "text": "the budget on to a tremendous extent"
+        },
+        {
+            "start": "2033.58",
+            "dur": "2.729",
+            "text": "doctors are overburdened there"
+        },
+        {
+            "start": "2035.08",
+            "dur": "2.37",
+            "text": "not taking a lot of Medicare patients"
+        },
+        {
+            "start": "2036.309",
+            "dur": "2.911",
+            "text": "they won't take new Medicare patients"
+        },
+        {
+            "start": "2037.45",
+            "dur": "3.99",
+            "text": "even the idea that you're gonna purchase"
+        },
+        {
+            "start": "2039.22",
+            "dur": "3.48",
+            "text": "supplementary insurance and that's only"
+        },
+        {
+            "start": "2041.44",
+            "dur": "2.64",
+            "text": "going to last if they're doctors who"
+        },
+        {
+            "start": "2042.7",
+            "dur": "2.91",
+            "text": "take the supplementary insurance plus"
+        },
+        {
+            "start": "2044.08",
+            "dur": "2.55",
+            "text": "the Medicare and a lot of doctors are"
+        },
+        {
+            "start": "2045.61",
+            "dur": "1.89",
+            "text": "saying I'm not even to work in the"
+        },
+        {
+            "start": "2046.63",
+            "dur": "3.09",
+            "text": "Medicare system because the"
+        },
+        {
+            "start": "2047.5",
+            "dur": "3.869",
+            "text": "reimbursement rates are too low so no"
+        },
+        {
+            "start": "2049.72",
+            "dur": "3.03",
+            "text": "none of this makes any sense but it just"
+        },
+        {
+            "start": "2051.369",
+            "dur": "4.111",
+            "text": "demonstrates the the coalition of the"
+        },
+        {
+            "start": "2052.75",
+            "dur": "4.83",
+            "text": "far left is is growing but it's still"
+        },
+        {
+            "start": "2055.48",
+            "dur": "4.35",
+            "text": "reliant on these tent poles of insanity"
+        },
+        {
+            "start": "2057.58",
+            "dur": "3.45",
+            "text": "people like Bernie Sanders okay so now I"
+        },
+        {
+            "start": "2059.83",
+            "dur": "3.509",
+            "text": "want to talk about the big idea I want"
+        },
+        {
+            "start": "2061.03",
+            "dur": "5.16",
+            "text": "to talk about this last week a little"
+        },
+        {
+            "start": "2063.339",
+            "dur": "5.131",
+            "text": "bit and we ran out of time on it but"
+        },
+        {
+            "start": "2066.19",
+            "dur": "3.86",
+            "text": "there's this idea that you see sometimes"
+        },
+        {
+            "start": "2068.47",
+            "dur": "4.199",
+            "text": "discussed in philosophical circles"
+        },
+        {
+            "start": "2070.05",
+            "dur": "4.03",
+            "text": "Athens versus Jerusalem the idea that"
+        },
+        {
+            "start": "2072.669",
+            "dur": "3.93",
+            "text": "Western civilization is built on these"
+        },
+        {
+            "start": "2074.08",
+            "dur": "4.349",
+            "text": "twin poles Athens in Jerusalem Athens"
+        },
+        {
+            "start": "2076.599",
+            "dur": "4.611",
+            "text": "being the idea of Greek reason people"
+        },
+        {
+            "start": "2078.429",
+            "dur": "5.91",
+            "text": "like Plato and Aristotle and Socrates"
+        },
+        {
+            "start": "2081.21",
+            "dur": "5.35",
+            "text": " so sorry princess pride but and"
+        },
+        {
+            "start": "2084.339",
+            "dur": "5.401",
+            "text": "then the other pole would be Jerusalem"
+        },
+        {
+            "start": "2086.56",
+            "dur": "4.98",
+            "text": "and that pole being the idea of faith so"
+        },
+        {
+            "start": "2089.74",
+            "dur": "3.03",
+            "text": "faith and reason are the twin pillars of"
+        },
+        {
+            "start": "2091.54",
+            "dur": "3.03",
+            "text": "American society what you're watching"
+        },
+        {
+            "start": "2092.77",
+            "dur": "4.23",
+            "text": "right now in action it's really"
+        },
+        {
+            "start": "2094.57",
+            "dur": "5.31",
+            "text": "fascinating is that if one of those"
+        },
+        {
+            "start": "2097",
+            "dur": "4.83",
+            "text": "poles falls both of the poles fall okay"
+        },
+        {
+            "start": "2099.88",
+            "dur": "3.9",
+            "text": "if reason false then religion can't last"
+        },
+        {
+            "start": "2101.83",
+            "dur": "3.72",
+            "text": "on its own and if religion Falls then"
+        },
+        {
+            "start": "2103.78",
+            "dur": "3.45",
+            "text": "reason can't last on its own we now live"
+        },
+        {
+            "start": "2105.55",
+            "dur": "3.21",
+            "text": "in a secular society where Jerusalem has"
+        },
+        {
+            "start": "2107.23",
+            "dur": "4.619",
+            "text": "largely fallen where people have decided"
+        },
+        {
+            "start": "2108.76",
+            "dur": "5.43",
+            "text": "that faith in a Creator who cares about"
+        },
+        {
+            "start": "2111.849",
+            "dur": "4.591",
+            "text": "you cares what you do morally and has"
+        },
+        {
+            "start": "2114.19",
+            "dur": "3.929",
+            "text": "created a rational system capable of our"
+        },
+        {
+            "start": "2116.44",
+            "dur": "4.11",
+            "text": "interpretation because we're human"
+        },
+        {
+            "start": "2118.119",
+            "dur": "5.071",
+            "text": "beings made in His image as that pole"
+        },
+        {
+            "start": "2120.55",
+            "dur": "5.13",
+            "text": "has fallen in esteem in American circles"
+        },
+        {
+            "start": "2123.19",
+            "dur": "3.99",
+            "text": "and in secular circles then science is"
+        },
+        {
+            "start": "2125.68",
+            "dur": "3.45",
+            "text": "the next thing to fall because without"
+        },
+        {
+            "start": "2127.18",
+            "dur": "3.929",
+            "text": "the idea of a rational universe and a"
+        },
+        {
+            "start": "2129.13",
+            "dur": "4.26",
+            "text": "rational creator an irrationally"
+        },
+        {
+            "start": "2131.109",
+            "dur": "5.101",
+            "text": "articulable system and a people who are"
+        },
+        {
+            "start": "2133.39",
+            "dur": "5.19",
+            "text": "capable of grasping huge swathes of that"
+        },
+        {
+            "start": "2136.21",
+            "dur": "3.87",
+            "text": "system you end up with people basically"
+        },
+        {
+            "start": "2138.58",
+            "dur": "3.45",
+            "text": "saying that science should no longer be"
+        },
+        {
+            "start": "2140.08",
+            "dur": "3.45",
+            "text": "a thing so slate has an article out"
+        },
+        {
+            "start": "2142.03",
+            "dur": "3.569",
+            "text": "today talking about how science is bad"
+        },
+        {
+            "start": "2143.53",
+            "dur": "4.29",
+            "text": "right science is actively bad because it"
+        },
+        {
+            "start": "2145.599",
+            "dur": "3.391",
+            "text": "creates this idea that science is going"
+        },
+        {
+            "start": "2147.82",
+            "dur": "2.97",
+            "text": "to govern all of us and that their"
+        },
+        {
+            "start": "2148.99",
+            "dur": "3.75",
+            "text": "objective standards right and wrong or"
+        },
+        {
+            "start": "2150.79",
+            "dur": "3.36",
+            "text": "more importantly objective standards of"
+        },
+        {
+            "start": "2152.74",
+            "dur": "2.94",
+            "text": "true and false science can't tell you"
+        },
+        {
+            "start": "2154.15",
+            "dur": "3.09",
+            "text": "right and wrong the time should be able"
+        },
+        {
+            "start": "2155.68",
+            "dur": "3.51",
+            "text": "to tell you true and false in scientific"
+        },
+        {
+            "start": "2157.24",
+            "dur": "3.66",
+            "text": "terms the left is saying science can't"
+        },
+        {
+            "start": "2159.19",
+            "dur": "2.61",
+            "text": "even do that anymore science can't even"
+        },
+        {
+            "start": "2160.9",
+            "dur": "2.52",
+            "text": "do that because we live in a universe"
+        },
+        {
+            "start": "2161.8",
+            "dur": "3.12",
+            "text": "where cause and effect aren't really"
+        },
+        {
+            "start": "2163.42",
+            "dur": "4.23",
+            "text": "things they're just things that we"
+        },
+        {
+            "start": "2164.92",
+            "dur": "4.05",
+            "text": "perceive to be that science is all about"
+        },
+        {
+            "start": "2167.65",
+            "dur": "2.85",
+            "text": "the idea"
+        },
+        {
+            "start": "2168.97",
+            "dur": "3.87",
+            "text": "Topsy's being verified but those"
+        },
+        {
+            "start": "2170.5",
+            "dur": "4.02",
+            "text": "hypotheses depend on the on the ideas"
+        },
+        {
+            "start": "2172.84",
+            "dur": "3.24",
+            "text": "that come out of biased brains as"
+        },
+        {
+            "start": "2174.52",
+            "dur": "3.329",
+            "text": "there's no way to really get to a"
+        },
+        {
+            "start": "2176.08",
+            "dur": "2.97",
+            "text": "scientific truth and so you're seeing"
+        },
+        {
+            "start": "2177.849",
+            "dur": "2.641",
+            "text": "the left do this because the left is"
+        },
+        {
+            "start": "2179.05",
+            "dur": "2.73",
+            "text": "looking at science and they're saying"
+        },
+        {
+            "start": "2180.49",
+            "dur": "3.3",
+            "text": "science is coming up with results that"
+        },
+        {
+            "start": "2181.78",
+            "dur": "3.75",
+            "text": "we don't like so science itself should"
+        },
+        {
+            "start": "2183.79",
+            "dur": "3.42",
+            "text": "be undermined without the faith and"
+        },
+        {
+            "start": "2185.53",
+            "dur": "3.93",
+            "text": "rational creator in a rational universe"
+        },
+        {
+            "start": "2187.21",
+            "dur": "3.81",
+            "text": "capable of our penetration it's very"
+        },
+        {
+            "start": "2189.46",
+            "dur": "3.48",
+            "text": "difficult to make the case that science"
+        },
+        {
+            "start": "2191.02",
+            "dur": "4.079",
+            "text": "ought to be the gold standard in terms"
+        },
+        {
+            "start": "2192.94",
+            "dur": "3.54",
+            "text": "of how we live beyond that religion"
+        },
+        {
+            "start": "2195.099",
+            "dur": "2.851",
+            "text": "creates the notion of free will and"
+        },
+        {
+            "start": "2196.48",
+            "dur": "3.54",
+            "text": "personal responsibility how do you build"
+        },
+        {
+            "start": "2197.95",
+            "dur": "4.32",
+            "text": "a society along those lines on"
+        },
+        {
+            "start": "2200.02",
+            "dur": "3.12",
+            "text": "scientific lines if you don't believe in"
+        },
+        {
+            "start": "2202.27",
+            "dur": "2.49",
+            "text": "any of those things"
+        },
+        {
+            "start": "2203.14",
+            "dur": "3.12",
+            "text": "the tragedy of Western civilization is"
+        },
+        {
+            "start": "2204.76",
+            "dur": "4.29",
+            "text": "that if you look back at Aristotle"
+        },
+        {
+            "start": "2206.26",
+            "dur": "5.04",
+            "text": "Aristotle and Plato we're attempting to"
+        },
+        {
+            "start": "2209.05",
+            "dur": "3.78",
+            "text": "grasp at the infinite right when they"
+        },
+        {
+            "start": "2211.3",
+            "dur": "3.39",
+            "text": "talk about Plato's cave this idea that"
+        },
+        {
+            "start": "2212.83",
+            "dur": "3.24",
+            "text": "that we are all sitting in a cave and we"
+        },
+        {
+            "start": "2214.69",
+            "dur": "2.52",
+            "text": "see shadows on the wall but there's"
+        },
+        {
+            "start": "2216.07",
+            "dur": "2.64",
+            "text": "something out there that we can't fully"
+        },
+        {
+            "start": "2217.21",
+            "dur": "3.24",
+            "text": "grasp but we can sort of grasp the"
+        },
+        {
+            "start": "2218.71",
+            "dur": "3.99",
+            "text": "shadows but we're grasping in darkness"
+        },
+        {
+            "start": "2220.45",
+            "dur": "5.78",
+            "text": "you know that idea brought to fruition"
+        },
+        {
+            "start": "2222.7",
+            "dur": "6.63",
+            "text": "by Aristotle in the idea of the forms"
+        },
+        {
+            "start": "2226.23",
+            "dur": "5.56",
+            "text": "there's a reason that religion when when"
+        },
+        {
+            "start": "2229.33",
+            "dur": "5.009",
+            "text": "Aristotle's work was rediscovered in the"
+        },
+        {
+            "start": "2231.79",
+            "dur": "5.069",
+            "text": "in the late in the late first millenium"
+        },
+        {
+            "start": "2234.339",
+            "dur": "3.78",
+            "text": "it was it was taken in by a lot of"
+        },
+        {
+            "start": "2236.859",
+            "dur": "3.691",
+            "text": "Christian scholars like Thomas Aquinas"
+        },
+        {
+            "start": "2238.119",
+            "dur": "3.99",
+            "text": "and merged with religion in Judaism"
+        },
+        {
+            "start": "2240.55",
+            "dur": "3.18",
+            "text": "Maimonides tried to do the same thing"
+        },
+        {
+            "start": "2242.109",
+            "dur": "3.601",
+            "text": "look at Aristotle and saw a religious"
+        },
+        {
+            "start": "2243.73",
+            "dur": "3.78",
+            "text": "thinker a secular about religious think"
+        },
+        {
+            "start": "2245.71",
+            "dur": "3.36",
+            "text": "or a rational thinker who is attempting"
+        },
+        {
+            "start": "2247.51",
+            "dur": "3.089",
+            "text": "to reach out to the idea of the infinite"
+        },
+        {
+            "start": "2249.07",
+            "dur": "3.69",
+            "text": "what is it about the universe that"
+        },
+        {
+            "start": "2250.599",
+            "dur": "4.231",
+            "text": "allows us to grasp it in so much of its"
+        },
+        {
+            "start": "2252.76",
+            "dur": "4.02",
+            "text": "complexity but not grasp its purposes"
+        },
+        {
+            "start": "2254.83",
+            "dur": "3.33",
+            "text": "why is that there right this is a big"
+        },
+        {
+            "start": "2256.78",
+            "dur": "2.73",
+            "text": "question that animates all of human life"
+        },
+        {
+            "start": "2258.16",
+            "dur": "3.39",
+            "text": "and all of human reason and the striving"
+        },
+        {
+            "start": "2259.51",
+            "dur": "4.23",
+            "text": "and the religious community takes that"
+        },
+        {
+            "start": "2261.55",
+            "dur": "3.99",
+            "text": "question and they say okay here's our"
+        },
+        {
+            "start": "2263.74",
+            "dur": "2.94",
+            "text": "answer to the why but science is going"
+        },
+        {
+            "start": "2265.54",
+            "dur": "2.88",
+            "text": "to have to tell you the what we're going"
+        },
+        {
+            "start": "2266.68",
+            "dur": "3.78",
+            "text": "to have to use reason to grasp God but"
+        },
+        {
+            "start": "2268.42",
+            "dur": "5.01",
+            "text": "it's important to grasp God why because"
+        },
+        {
+            "start": "2270.46",
+            "dur": "5.73",
+            "text": "God is involved in your life cares about"
+        },
+        {
+            "start": "2273.43",
+            "dur": "4.02",
+            "text": "you wants things to be to be wants you"
+        },
+        {
+            "start": "2276.19",
+            "dur": "3.99",
+            "text": "to succeed wants you to make the"
+        },
+        {
+            "start": "2277.45",
+            "dur": "4.889",
+            "text": "decisions God but God is offering you a"
+        },
+        {
+            "start": "2280.18",
+            "dur": "4.14",
+            "text": "directionality to history right you have"
+        },
+        {
+            "start": "2282.339",
+            "dur": "3.721",
+            "text": "a messianic future that we can all move"
+        },
+        {
+            "start": "2284.32",
+            "dur": "3.299",
+            "text": "toward right that's something that"
+        },
+        {
+            "start": "2286.06",
+            "dur": "3.18",
+            "text": "judeo-christian religion very strongly"
+        },
+        {
+            "start": "2287.619",
+            "dur": "3.091",
+            "text": "believes in and free will right we are"
+        },
+        {
+            "start": "2289.24",
+            "dur": "2.79",
+            "text": "not determined by the Stars which was"
+        },
+        {
+            "start": "2290.71",
+            "dur": "3.42",
+            "text": "sort of an ancient idea that the stars"
+        },
+        {
+            "start": "2292.03",
+            "dur": "4.05",
+            "text": "determine our fate right we are"
+        },
+        {
+            "start": "2294.13",
+            "dur": "3.63",
+            "text": "determined by our own capacity to make"
+        },
+        {
+            "start": "2296.08",
+            "dur": "3.36",
+            "text": "decisions in the world you combine that"
+        },
+        {
+            "start": "2297.76",
+            "dur": "2.67",
+            "text": "with the power of human reason and you"
+        },
+        {
+            "start": "2299.44",
+            "dur": "2.389",
+            "text": "end up creating the most glorious"
+        },
+        {
+            "start": "2300.43",
+            "dur": "4.849",
+            "text": "civilization in the history of"
+        },
+        {
+            "start": "2301.829",
+            "dur": "6.72",
+            "text": "and kind but over time science religion"
+        },
+        {
+            "start": "2305.279",
+            "dur": "4.98",
+            "text": "and now a sort of bizarre spiritualism"
+        },
+        {
+            "start": "2308.549",
+            "dur": "3.091",
+            "text": "is eating science because people still"
+        },
+        {
+            "start": "2310.259",
+            "dur": "2.911",
+            "text": "have the desire to grasp out at the"
+        },
+        {
+            "start": "2311.64",
+            "dur": "2.729",
+            "text": "infinite and they're looking at science"
+        },
+        {
+            "start": "2313.17",
+            "dur": "3.869",
+            "text": "and saying you're not getting me there"
+        },
+        {
+            "start": "2314.369",
+            "dur": "4.321",
+            "text": "and so basically the enlightenment comes"
+        },
+        {
+            "start": "2317.039",
+            "dur": "2.73",
+            "text": "out of these twin polls enlightenment"
+        },
+        {
+            "start": "2318.69",
+            "dur": "3.179",
+            "text": "comes out of the idea that there's a"
+        },
+        {
+            "start": "2319.769",
+            "dur": "4.681",
+            "text": "faith-based there's a faith-based"
+        },
+        {
+            "start": "2321.869",
+            "dur": "5.22",
+            "text": "universe out there that we can attempt"
+        },
+        {
+            "start": "2324.45",
+            "dur": "6.059",
+            "text": "to grasp using Aristotelian reason and"
+        },
+        {
+            "start": "2327.089",
+            "dur": "4.98",
+            "text": "using science and this result in the"
+        },
+        {
+            "start": "2330.509",
+            "dur": "3.27",
+            "text": "idea of natural rights right natural"
+        },
+        {
+            "start": "2332.069",
+            "dur": "3.571",
+            "text": "right to see God based system we can"
+        },
+        {
+            "start": "2333.779",
+            "dur": "3.99",
+            "text": "create a rational reasonable freedom"
+        },
+        {
+            "start": "2335.64",
+            "dur": "3.629",
+            "text": "based system but only if we believe that"
+        },
+        {
+            "start": "2337.769",
+            "dur": "3.181",
+            "text": "there is a God who made us in His image"
+        },
+        {
+            "start": "2339.269",
+            "dur": "3.09",
+            "text": "and these were the twin poles of the"
+        },
+        {
+            "start": "2340.95",
+            "dur": "3.419",
+            "text": "Enlightenment and then science says you"
+        },
+        {
+            "start": "2342.359",
+            "dur": "4.41",
+            "text": "know what let's apply the standards of"
+        },
+        {
+            "start": "2344.369",
+            "dur": "5.281",
+            "text": "science to religion ok religion is"
+        },
+        {
+            "start": "2346.769",
+            "dur": "4.02",
+            "text": "unverifiable therefore we can't say"
+        },
+        {
+            "start": "2349.65",
+            "dur": "3.48",
+            "text": "anything about it and then science gets"
+        },
+        {
+            "start": "2350.789",
+            "dur": "4.83",
+            "text": "even more science gets even more"
+        },
+        {
+            "start": "2353.13",
+            "dur": "4.26",
+            "text": "provocative science has not only can't"
+        },
+        {
+            "start": "2355.619",
+            "dur": "3.571",
+            "text": "we prove religion religion is false"
+        },
+        {
+            "start": "2357.39",
+            "dur": "3.54",
+            "text": "right the Richard Dawkins school of"
+        },
+        {
+            "start": "2359.19",
+            "dur": "3.269",
+            "text": "thought science can prove religion false"
+        },
+        {
+            "start": "2360.93",
+            "dur": "2.309",
+            "text": "and by proving religion false by proving"
+        },
+        {
+            "start": "2362.459",
+            "dur": "2.64",
+            "text": "that it's just a figment of your"
+        },
+        {
+            "start": "2363.239",
+            "dur": "4.35",
+            "text": "imagination we can move into a better"
+        },
+        {
+            "start": "2365.099",
+            "dur": "3.45",
+            "text": "world right where man is king accept it"
+        },
+        {
+            "start": "2367.589",
+            "dur": "2.49",
+            "text": "the next thing that happened is that"
+        },
+        {
+            "start": "2368.549",
+            "dur": "2.611",
+            "text": "science ate the idea that man is king"
+        },
+        {
+            "start": "2370.079",
+            "dur": "2.28",
+            "text": "because the more you move into the"
+        },
+        {
+            "start": "2371.16",
+            "dur": "2.97",
+            "text": "scientific world the more you realize"
+        },
+        {
+            "start": "2372.359",
+            "dur": "3.42",
+            "text": "that human beings are just another"
+        },
+        {
+            "start": "2374.13",
+            "dur": "4.889",
+            "text": "animal with a bunch of brain functions"
+        },
+        {
+            "start": "2375.779",
+            "dur": "5.25",
+            "text": "and that you know in the EO Wilson view"
+        },
+        {
+            "start": "2379.019",
+            "dur": "4.26",
+            "text": "of sociobiology that all of our actions"
+        },
+        {
+            "start": "2381.029",
+            "dur": "3.24",
+            "text": "are not free willed right we can't will"
+        },
+        {
+            "start": "2383.279",
+            "dur": "2.7",
+            "text": "our own actions everything is"
+        },
+        {
+            "start": "2384.269",
+            "dur": "3.121",
+            "text": "predetermined so why should there be"
+        },
+        {
+            "start": "2385.979",
+            "dur": "2.911",
+            "text": "punishment Why should there be societies"
+        },
+        {
+            "start": "2387.39",
+            "dur": "3.599",
+            "text": "why are moral standards better why"
+        },
+        {
+            "start": "2388.89",
+            "dur": "4.199",
+            "text": "shouldn't I do whatever is hedonistic"
+        },
+        {
+            "start": "2390.989",
+            "dur": "2.941",
+            "text": "aliy pleasurable to me why shouldn't I"
+        },
+        {
+            "start": "2393.089",
+            "dur": "3.301",
+            "text": "be the marquis de sade"
+        },
+        {
+            "start": "2393.93",
+            "dur": "4.47",
+            "text": "alright so science as it progressed ate"
+        },
+        {
+            "start": "2396.39",
+            "dur": "3.869",
+            "text": "the foundations of science itself and"
+        },
+        {
+            "start": "2398.4",
+            "dur": "5.129",
+            "text": "that's what we're seeing we're seeing"
+        },
+        {
+            "start": "2400.259",
+            "dur": "5.19",
+            "text": "the the Ober the over us the the snake"
+        },
+        {
+            "start": "2403.529",
+            "dur": "3.54",
+            "text": "that eats its own tail that's what's"
+        },
+        {
+            "start": "2405.449",
+            "dur": "3.3",
+            "text": "happening with science right now because"
+        },
+        {
+            "start": "2407.069",
+            "dur": "3.54",
+            "text": "once you disconnect science from faith"
+        },
+        {
+            "start": "2408.749",
+            "dur": "3.84",
+            "text": "in a rational universe of the rational"
+        },
+        {
+            "start": "2410.609",
+            "dur": "3.72",
+            "text": "Creator who cares about us then you lose"
+        },
+        {
+            "start": "2412.589",
+            "dur": "3.571",
+            "text": "number one the impetus to to actually"
+        },
+        {
+            "start": "2414.329",
+            "dur": "3.42",
+            "text": "seek out the universe number two"
+        },
+        {
+            "start": "2416.16",
+            "dur": "3.27",
+            "text": "you lose the faith that there is a"
+        },
+        {
+            "start": "2417.749",
+            "dur": "3.75",
+            "text": "rational universe to be comprehended and"
+        },
+        {
+            "start": "2419.43",
+            "dur": "3.24",
+            "text": "number three you lose the free will that"
+        },
+        {
+            "start": "2421.499",
+            "dur": "3.09",
+            "text": "would drive you to do all of these"
+        },
+        {
+            "start": "2422.67",
+            "dur": "3.299",
+            "text": "things that's why you need both Athens"
+        },
+        {
+            "start": "2424.589",
+            "dur": "3.12",
+            "text": "and Jerusalem and they seem mutually"
+        },
+        {
+            "start": "2425.969",
+            "dur": "3.721",
+            "text": "exclusive and they do battle with each"
+        },
+        {
+            "start": "2427.709",
+            "dur": "3.451",
+            "text": "other for primacy and the upper hand but"
+        },
+        {
+            "start": "2429.69",
+            "dur": "3.69",
+            "text": "if you lose either one of those if you"
+        },
+        {
+            "start": "2431.16",
+            "dur": "4.74",
+            "text": "lose science then religion just becomes"
+        },
+        {
+            "start": "2433.38",
+            "dur": "4.5",
+            "text": "you know grasping at shadows religion"
+        },
+        {
+            "start": "2435.9",
+            "dur": "4.98",
+            "text": "just becomes faith-based in nothing and"
+        },
+        {
+            "start": "2437.88",
+            "dur": "6.179",
+            "text": "if you and and if you lose religion then"
+        },
+        {
+            "start": "2440.88",
+            "dur": "6.199",
+            "text": "science just becomes a group of animals"
+        },
+        {
+            "start": "2444.059",
+            "dur": "5.341",
+            "text": "seeking to build huts of sticks with no"
+        },
+        {
+            "start": "2447.079",
+            "dur": "4.391",
+            "text": "meaning and no drive toward a better"
+        },
+        {
+            "start": "2449.4",
+            "dur": "3.36",
+            "text": "society you have to answer the question"
+        },
+        {
+            "start": "2451.47",
+            "dur": "2.879",
+            "text": "as to why a more moral society is"
+        },
+        {
+            "start": "2452.76",
+            "dur": "3.51",
+            "text": "necessary when morality has no meaning"
+        },
+        {
+            "start": "2454.349",
+            "dur": "3.901",
+            "text": "better has no meaning and society has no"
+        },
+        {
+            "start": "2456.27",
+            "dur": "4.62",
+            "text": "meaning outside of just a bunch of"
+        },
+        {
+            "start": "2458.25",
+            "dur": "3.99",
+            "text": "animals living in a similar space so"
+        },
+        {
+            "start": "2460.89",
+            "dur": "3.06",
+            "text": "this is why you need both Athens and"
+        },
+        {
+            "start": "2462.24",
+            "dur": "3.99",
+            "text": "Jerusalem this is why reason and faith"
+        },
+        {
+            "start": "2463.95",
+            "dur": "3.629",
+            "text": "must hold hands even though they"
+        },
+        {
+            "start": "2466.23",
+            "dur": "3.599",
+            "text": "disagree all the time and slap at each"
+        },
+        {
+            "start": "2467.579",
+            "dur": "3.691",
+            "text": "other with their free hands okay so"
+        },
+        {
+            "start": "2469.829",
+            "dur": "3.421",
+            "text": "we'll be back here tomorrow with the"
+        },
+        {
+            "start": "2471.27",
+            "dur": "3.12",
+            "text": "mailbag it's Thursday right yes okay so"
+        },
+        {
+            "start": "2473.25",
+            "dur": "3.27",
+            "text": "we will be after tomorrow with the"
+        },
+        {
+            "start": "2474.39",
+            "dur": "4.199",
+            "text": "mailbag remember we are the number two"
+        },
+        {
+            "start": "2476.52",
+            "dur": "3.839",
+            "text": "podcast on iTunes if you help us out"
+        },
+        {
+            "start": "2478.589",
+            "dur": "3.601",
+            "text": "with subscriptions and reviews and and"
+        },
+        {
+            "start": "2480.359",
+            "dur": "4.2",
+            "text": "listening to the show then we will"
+        },
+        {
+            "start": "2482.19",
+            "dur": "4.29",
+            "text": "overtake Oprah we will I have faith we"
+        },
+        {
+            "start": "2484.559",
+            "dur": "3.391",
+            "text": "will overtake Oprah and you won't get a"
+        },
+        {
+            "start": "2486.48",
+            "dur": "3.48",
+            "text": "car and you won't get a car a note we'll"
+        },
+        {
+            "start": "2487.95",
+            "dur": "4.2",
+            "text": "get a car get yourself a damn car okay I"
+        },
+        {
+            "start": "2489.96",
+            "dur": "4.38",
+            "text": "don't have to go car I'm Ben Shapiro"
+        },
+        {
+            "start": "2492.15",
+            "dur": "7.579",
+            "text": "this is a Ben Shapiro show"
+        },
+        {
+            "start": "2494.34",
+            "dur": "5.389",
+            "text": "[Music]"
+        }
+    ]
+}
